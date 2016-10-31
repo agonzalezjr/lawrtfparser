@@ -13,10 +13,13 @@ parser.add_argument('-o', '--output', default='output.csv',
 
 args = parser.parse_args()
 
-dataFields = ['judge', 'case', 'court'];
+dataFields = ['Judge', 'Docket', 'Topic', 'Court',  'Date', 'Parties'];
 
 # an array of dicts with the result of the run
 data = [];
+lines = [];
+dataRow = [];
+
 
 def dumpData(fileName, data, dataFields):
     print('Generating ' + fileName + ' ...')
@@ -29,21 +32,55 @@ def dumpData(fileName, data, dataFields):
 
 def processFile(root, file):
     print('Processing file: ' + os.path.join(root, file))
+    
+    f = open(root+'/'+file,'r')
+    for line in f:
+        lines.append(line)
+    f.close()
+   
+    for i in range(0,len(lines)):      
+		dataRow = {}
+		if lines[i].find("Judge(s)") == 0:	
+			 
+			dataRow['Judge'] = lines[i+1]
+			data.append(dataRow)
+			
+
+		elif lines[i].find("Related Docket(s)") == 0:	
+
+			dataRow['Docket'] = lines[i+1]
+			data.append(dataRow)
+
+		elif lines[i].find("Topic(s)") == 0:	
+
+			dataRow['Topic'] = lines[i+1]
+ 			data.append(dataRow)
+
+		elif lines[i].find("Court") == 0:	  
+
+			dataRow['Court'] = lines[i+1]
+			data.append(dataRow)
+
+		elif lines[i].find("Date Filed") == 0:	
+
+			dataRow['Date'] = lines[i+1]
+			data.append(dataRow)
+
+		elif lines[i].find("Parties") == 0:	
+
+			dataRow['Parties'] = lines[i+1]
+			data.append(dataRow)
 
     # TODO: The actual parsing ...
 
     # For now, assume this is the output for each file
-    dataRow = {}
-    dataRow['judge'] = 'foo'
-    dataRow['case'] = '123'
-    data.append(dataRow)
 
 if not os.path.isdir(args.directory):
     sys.exit('ERROR: passed argument is not a directory (' + args.directory + ')')
 
 for root, dirs, files in os.walk(args.directory):
     for file in files:
-        if file.endswith(".rtf"):
+        if file.endswith(".txt"):
             processFile(root, file)
 
 dumpData(args.output, data, dataFields)

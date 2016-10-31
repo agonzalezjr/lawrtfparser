@@ -1,4 +1,3429 @@
-judge,case,court
-foo,123,
-foo,123,
-foo,123,
+Judge,Docket,Topic,Court,Date,Parties
+"Barry S. Seltzer
+",,,,,
+,"0:15-cv-62488 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-09-15 00:00:00
+",
+,,,,,"ROCKET REAL ESTATE, LLC, and ERIC ROMANOW, Plaintiff, vs. LOURDES E. MAESTRES, Defendants.
+"
+"Thomas B. Smith
+",,,,,
+,"6:14-cv-00527 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-05-22 00:00:00
+",
+,,,,,"DARLENE COLEMAN, Plaintiff, v. STARBUCKS, Defendant.
+"
+"WILLIAM P. DIMITROULEAS
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-01-28 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. MANUEL CHRISTIANSON and BRIAN ASHTON, Plaintiff/Relator, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY., Defendant.
+"
+"CLYDE ROGER VINSON
+",,,,,
+,"3:09-cv-00395 (N.D. Fla.);
+",,,,
+,,"Torts; Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-07-09 00:00:00
+",
+,,,,,"ARCH INSURANCE COMPANY, a Missouri corporation, Plaintiff, v. UNITED STATES OF AMERICA, and AVENGE, INC., a Virginia corporation, Defendants.
+"
+"Charles A. Stampelos
+",,,,,
+,,,,"2013-07-18 00:00:00
+",
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,,"R.W.D. INNOVATIVE SPECIALTY TRIMS LLC, a Florida limited liability company, Plaintiff, vs. CRAIG A. OEHME, POLYTECHNICS CORPORATION, a California Corporation, Defendants.
+"
+"WILLIAM P. DIMITROULEAS
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies; Banking & Finance; Government
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-08-14 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. MANUEL CHRISTIANSEN and BRIAN ASHTON, Plaintiff/Relator, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY, Defendant.
+"
+"Lurana S. Snow
+",,,,,
+,"0:13-cv-60524 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-06-11 00:00:00
+",
+,,,,,"LIGHTHOUSE LIST COMPANY, LLC, Plaintiff, v. CROSS HATCH VENTURES CORP., et al., Defendants.
+"
+"Joel B. Toomey
+",,,,,
+,"3:09-cv-00446 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Criminal Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-07-15 00:00:00
+",
+,,,,,"GORDON LAWRIE, et al., individually and on behalf of all others similarly situated, Plaintiffs, v. GINN DEVELOPMENT COMPANY, LLC, et al., Defendants.
+"
+"Douglas N. Frazier
+",,,,,
+,,,,"2012-07-10 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"DAVID ALBERT SMITH, Plaintiff, -vs- MICHAEL J. ASTRUE COMMISSIONER OF SOCIAL SECURITY, Defendant.
+"
+"Charles A. Stampelos
+",,,,,
+,"1:15-cv-00251 (N.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2016-07-13 00:00:00
+",
+,,,,,"SHANNON LESLI LEVY, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of the Social Security Administration, Defendant.
+"
+"William Matthewman
+",,,,,
+,,,,"2014-04-07 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"UNITED STATES OF AMERICA, v. ROGELIO RAMOS, Defendant.
+"
+"Barry S. Seltzer
+",,,,,
+,"0:15-cv-62488 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-09-15 00:00:00
+",
+,,,,,"ROCKET REAL ESTATE, LLC, and ERIC ROMANOW, Plaintiff, vs. LOURDES E. MAESTRES, Defendants.
+"
+"Thomas B. Smith
+",,,,,
+,"6:14-cv-00527 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-05-22 00:00:00
+",
+,,,,,"DARLENE COLEMAN, Plaintiff, v. STARBUCKS, Defendant.
+"
+"WILLIAM P. DIMITROULEAS
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-01-28 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. MANUEL CHRISTIANSON and BRIAN ASHTON, Plaintiff/Relator, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY., Defendant.
+"
+"CLYDE ROGER VINSON
+",,,,,
+,"3:09-cv-00395 (N.D. Fla.);
+",,,,
+,,"Torts; Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-07-09 00:00:00
+",
+,,,,,"ARCH INSURANCE COMPANY, a Missouri corporation, Plaintiff, v. UNITED STATES OF AMERICA, and AVENGE, INC., a Virginia corporation, Defendants.
+"
+"Charles A. Stampelos
+",,,,,
+,,,,"2013-07-18 00:00:00
+",
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,,"R.W.D. INNOVATIVE SPECIALTY TRIMS LLC, a Florida limited liability company, Plaintiff, vs. CRAIG A. OEHME, POLYTECHNICS CORPORATION, a California Corporation, Defendants.
+"
+"WILLIAM P. DIMITROULEAS
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies; Banking & Finance; Government
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-08-14 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. MANUEL CHRISTIANSEN and BRIAN ASHTON, Plaintiff/Relator, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY, Defendant.
+"
+"Lurana S. Snow
+",,,,,
+,"0:13-cv-60524 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-06-11 00:00:00
+",
+,,,,,"LIGHTHOUSE LIST COMPANY, LLC, Plaintiff, v. CROSS HATCH VENTURES CORP., et al., Defendants.
+"
+"Joel B. Toomey
+",,,,,
+,"3:09-cv-00446 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Criminal Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-07-15 00:00:00
+",
+,,,,,"GORDON LAWRIE, et al., individually and on behalf of all others similarly situated, Plaintiffs, v. GINN DEVELOPMENT COMPANY, LLC, et al., Defendants.
+"
+"Douglas N. Frazier
+",,,,,
+,,,,"2012-07-10 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"DAVID ALBERT SMITH, Plaintiff, -vs- MICHAEL J. ASTRUE COMMISSIONER OF SOCIAL SECURITY, Defendant.
+"
+"Charles A. Stampelos
+",,,,,
+,"1:15-cv-00251 (N.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2016-07-13 00:00:00
+",
+,,,,,"SHANNON LESLI LEVY, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of the Social Security Administration, Defendant.
+"
+"William Matthewman
+",,,,,
+,,,,"2014-04-07 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"UNITED STATES OF AMERICA, v. ROGELIO RAMOS, Defendant.
+"
+,,,"This relief is triggered either as a sanction (for failing to comply with the 30(b)(6) obligations) or as a natural consequence of not having a pre-trial position on certain topics. It would be fundamentally unfair if QBE did not provide 30(b)(6) testimony on certain matters, proclaimed a lack of its own knowledge, advocated that the association's refusal to cooperate should not impact it and then at trial take affirmative positions on these topics and seek to introduce evidence against Jorda. QBE impliedly recognized the inequity inherent in this type of trial scenario when it agreed that it would be bound by Mr. O'Brien's lack of knowledge. 
+",,
+"Jonathan Goodman
+",,,,,
+,"1:10-cv-21107 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-01-30 00:00:00
+",
+,,,,,"QBE INSURANCE CORPORATION, Plaintiff, v. JORDA ENTERPRISES, INC., Defendant.
+"
+,,,"Other courts have declined to require the logging of privileged, post-filing documents. See Douglas C. Rennie, Why the Beginning Should bethe End: The Argument for Exempting Postcomplaint Materials From Rule26(b)(5)(A)'s Privilege Log Requirement, 85 Tul. L. Rev. 109, 133 n.155 (2010) (collecting cases). At least two federal district courts have adopted local rules exempting post-complaint communications from the scope of discovery. S.D. Fla. Local. R. 26.1(g)(3)(C); N.D. Okla. Local Civ. R. 26.4. One judge explained that the Southern District of Florida's rule reflects ""[*17] a policy decision ... that[] despite the relevancy of a given document, in most cases, there is no good reason to require a party to go through the expense of a privilege log with respect to documents created after the commencement of a case."" Stern v. O'Quinn, 253 F.R.D. 663, 689 (S.D. Fla. 2008). 
+",,
+"Thomas B. Smith
+",,,,,
+,"6:12-cv-00854 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-10-25 00:00:00
+",
+,,,,,"TELEDYNE INSTRUMENTS, INC., Teledyne, v. JAMES L. CAIRNS, ABYSSAL SYSTEMS, INC., KATHRYN F. KRAUSE and THE STILLWATER TRUST, Defendants.
+"
+"VIRGINIA MARIA HERNANDEZ COVINGTON
+",,,,,
+,"8:12-cv-00942 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-09-19 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, for the use and benefit of RAGGHIANTI FOUNDATIONS III, LLC, Plaintiff, v. PETER R. BROWN CONSTRUCTION, ET AL., Defendants.
+"
+"Lurana S. Snow
+",,,,,
+,"0:10-cv-62411 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-03-05 00:00:00
+",
+,,,,,"QBE Insurance Corporation; Wynmoor Community Council, Inc.
+"
+"JAMES D. WHITTEMORE
+",,,,,
+,"8:08-cv-02446 (M.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2012-11-02 00:00:00
+",
+,,,,,"TAMPA BAY WATER, Plaintiff, vs. HDR ENGINEERING, Inc., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-03-18 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Gary R. Jones
+",,,,,
+,"1:11-cv-00232 (N.D. Fla.);
+",,,,
+,,"Labor Law; Damages & Remedies
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-12-24 00:00:00
+",
+,,,,,"SHELLY OLIVA individually, Plaintiff, v. INFINITE ENERGY, INC., Defendant.
+"
+,,"Civil Procedure
+",,,
+,,,,"2014-12-01 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Monte C. Richardson
+",,,,,
+,"3:11-cv-00447 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2012-01-24 00:00:00
+",
+,,,,,"INDEPENDENT MARKETING GROUP, INC., a Florida corporation, Plaintiff, vs. JERRY KEEN, an individual; BRIAN J. KEEN, an individual and WILLIAM MEGNA, an individual, Defendants.
+"
+"Thomas B. Smith
+",,,,,
+,"6:13-cv-01481 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-02-12 00:00:00
+",
+,,,,,"L-3 COMMUNICATIONS CORPORATION, Plaintiff, v. SPARTON CORPORATION and SPARTON ELECTRONICS FLORIDA, INC., Defendants.
+"
+"Anne C. Conway
+",,,,,
+,"6:11-cv-00137 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Copyright Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-02-25 00:00:00
+",
+,,,,,"INDYNE, INC., Plaintiff, v. ABACUS TECHNOLOGY CORPORATION, JERRY RENINGER and MATTHEW BOYLAN, Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Tax & Accounting
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-02-02 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-02-28 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+,,,"Generally speaking, courts do not require a forensic analysis in the absence of consent unless there has been significant non-compliance with discovery obligations. Powers v. Thomas M. Cooley Law School, No. 5:05-CV-117, 2006 U.S. Dist. LEXIS 67706 , 2006 WL 2711512 , at *5 (W.D. Mich. Sept. 21, 2006); Mirbeau of Geneva Lake LLC v. City of Lake Geneva, No. 08-CV-693, 2009 U.S. Dist. LEXIS 101104 , 2009 WL 3347101 , at *1 (E.D. Wis. Oct. 15, 2009) (forensic analysis appropriate ""[o]nly if the moving party can actually prove that the responding party has concealed information or lacks the expertise necessary to search and retrieve all relevant data""). Cf. Daimler Truck N. Am. LLC v. Younessi, No. 08-MC-5011RBL, 2008 U.S. Dist. LEXIS 86022 , 2008 WL 2519845 , at *3 (W.D. Wash. June 20, 2008) (denying forensic analysis where there was no evidence that documents were destroyed and where the court predicted the responding party would produce the discovery); U & I Corp. v. Advanced Med. Design, Inc., 251 F.R.D. 667 , 675-76 (M.D. Fla. 2008) (defendant satisfied In re Ford's non-compliance with discovery standard because plaintiff had committed several serious discovery violations).
+",,
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-12-30 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-04-24 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Karla R. Spaulding
+",,,,,
+,"6:11-cv-00715 (M.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-06-27 00:00:00
+",
+,,,,,"HEALTH FIRST, INC., Plaintiff, v. RICHARD HYNES, Defendant.
+"
+"John J. O’Sullivan
+",,,,,
+,"1:11-cv-23627 (S.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure; Corporate Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-07-26 00:00:00
+",
+,,,,,"ENERGY SMART INDUSTRY, LLC, Plaintiff v. BIG R OF LAMAR, INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-07-20 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Gary R. Jones
+",,,,,
+,"5:12-cv-00398 (N.D. Fla.);
+",,,,
+,,"Civil Procedure; Evidence; Banking & Finance
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-06-14 00:00:00
+",
+,,,,,"FEDERAL DEPOSIT INSURANCE CORPORATION, as Receiver for Peoples First Community Bank, Plaintiff, v. Greg M. BRUDNICKI, Joseph F. Chapman, III, Henry Clayton Futrell, Philip W. Griffitts, John Robert Middlemas, Jr., Rodney C. Morris, Raymond E. Powell, and John Stephen Wilson, II, Defendants.
+"
+"JAMES LAWRENCE KING
+",,,,,
+,"1:09-cv-21871 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-10-16 00:00:00
+",
+,,,,,"Timothy FINNERTY, Plaintiff, v. STIEFEL LABORATORIES, INC., et al., Defendants.
+"
+"Marcia Morales Howard
+",,,,,
+,"3:13-cv-00457 (M.D. Fla.);
+",,,,
+,,"Constitutional Law; Civil Procedure; Insurance Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-09-16 00:00:00
+",
+,,,,,"DIAMOND STATE INSURANCE COMPANY, Plaintiff, vs. BOYS’ HOME ASSOCIATION, INC., et al., Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Consumer Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-10-02 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:13-cv-22795 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-01-10 00:00:00
+",
+,,,,,"GAME CONTROLLER TECHNOLOGY LLC, Plaintiff, v. SONY COMPUTER ENTERTAINMENT AMERICA LLC and SONY CORPORATION OF AMERICA, Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:13-cv-22795 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-01-10 00:00:00
+",
+,,,,,"GAME CONTROLLER TECHNOLOGY LLC, Plaintiff, v. SONY COMPUTER ENTERTAINMENT AMERICA LLC and Sony Corporation of America, Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:12-cv-23568 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2013-01-29 00:00:00
+",
+,,,,,"WI-LAN USA, INC., and WI-LAN, INC., Plaintiffs, v. ALCATEL-LUCENT USA INC., Defendant.
+"
+"DONALD M. MIDDLEBROOKS
+",,,,,
+,"9:11-cv-80601 (S.D. Fla.); 9:11-cv-80638 (S.D. Fla.); 9:11-cv-80641 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-03-08 00:00:00
+",
+,,,,,"WINN-DIXIE STORES, INC,; WINN-DIXIE STORES LEASING, LLC; WINN-DIXIE RALEIGH, INC.; WINN-DIXIE RALEIGH LEASING, LLC; WINN-DIXIE MONTGOMERY, LLC; and WINN-DIXIE MONTGOMERY LEASING, LLC, Plaintiffs, v. DOLLAR TREE STORES, INC., a Virginia corporation, Defendant.; WINN-DIXIE STORES, INC.; WINN-DIXIE STORES LEASING, LLC; WINN-DIXIE RALEIGH, INC.; WINN-DIXIE RALEIGH LEASING, LLC; WINN-DIXIE MONTGOMERY, LLC; and WINN-DIXIE MONTGOMERY LEASING, LLC, Plaintiffs, v. BIG LOTS STORES, INC., an Ohio corporation, Defendant/Third-party Plaintiff,; WINN-DIXIE STORES, INC.; WINN-DIXIE STORES LEASING, LLC; WINN-DIXIE RALEIGH, INC.; WINN-DIXIE RALEIGH LEASING, LLC; WINN-DIXIE MONTGOMERY, LLC; and WINN-DIXIE MONTGOMERY LEASING, LLC, Plaintiffs, v. DOLGENCORP, LLC, f/k/a DOLGENCORP, INC., a Kentucky corporation, Defendant/Third Party Plaintiff,
+"
+"Thomas G. Wilson
+",,,,,
+,"8:06-cv-01950 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2012-09-06 00:00:00
+",
+,,,,,"WAYNE R. GRAY Plaintiff, v. NOVELL, INC., THE SCO GROUP, INC., and X/OPEN LIMITED Defendants.
+"
+"ELIZABETH ANNE KOVACHEVICH
+",,,,,
+,"8:13-cv-01209 (M.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-09-10 00:00:00
+",
+,,,,,"KENNETH DOIG, Plaintiff, v. CAROLYN W. COLVIN, Acting Commissioner of Social Security, Defendant.
+"
+,,,,,"Under the work product doctrine, documents and other ""tangible things"" are not discoverable by a party when they were ""prepared in anticipation of litigation or for trial by or for another party or its representative (including the other party's attorney, consultant, surety, indemnitor, insurer, or agent).""  Id. at 26(b)(3)(A) . These protected materials may be discovered, however, if ""they are otherwise discoverable under Rule 26(b)(1) "" and the party seeking production ""shows that it has substantial need for the materials to prepare its case and cannot, without undue hardship, obtain their substantial equivalent by other means."" Id . 
+"
+"Julie Sneed
+",,,,,
+,"8:16-cv-00088 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-07-01 00:00:00
+",
+,,,,,"CENTENNIAL BANK, Plaintiff, v. SERVISFIRST BANK INC. and GREGORY W. BRYANT, Defendants.
+"
+"Elizabeth A. Jenkins
+",,,,,
+,"8:12-cv-00557 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-06-10 00:00:00
+",
+,,,,,"BURTON W. WIAND, ESQ., as Court-Appointed Receiver for SCOOP REAL ESTATE, L.P., et al., Plaintiff, vs. WELLS FARGO BANK, N.A., et al., Defendants.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01732 (M.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-05-11 00:00:00
+",
+,,,,,"NORIS BABB, Plaintiff, v. ROBERT A. MCDONALD, SECRETARY, DEPARTMENT OF VETERANS AFFAIRS, Defendant.
+"
+,,,"Even so, courts have recognized the value and remaining viability of a claim of secondary liability: ""When a widely shared service or product is used to commit infringement, it may be impossible to enforce rights in the protected work effectively against all direct infringers, the only practical alternative being to go against the distributor of the copying device for secondary liability on a theory of contributory or vicarious infringement."" Metro-Goldwyn-Mayer Studios, Inc. v. Grokster, Ltd., 545 U.S. 913, 929-30 (2005) (citation omitted); Perfect 10, Inc. v. Amazon.com, Inc., 508 F.3d 1146, 1171 n.11 (9th Cir. 2007) (""[C]opyright holders cannot protect their rights in a meaningful way unless they can hold providers of such services or products accountable for their actions."") These theories of secondary liability - contributory infringement, inducement liability and vicarious liability - are court-created and do not rely on the Copyright Act or another statute. See Viacom Int'l Inc., 676 F.3d at 28 n.5 (citing Grokster, 545 U.S. at 930-31 ); Perfect 10, Inc. v. Visa Int'l Serv. Ass'n, 494 F.3d 788, 795 (9th Cir. 2007) (""Contributory copyright infringement is a form of secondary liability with roots in the tort-law concepts of enterprise liability and imputed intent."").
+",,
+,,,"
+",,
+"KATHLEEN MARY WILLIAMS
+",,,,,
+,"1:11-cv-20427 (S.D. Fla.);
+",,,,
+,,"Torts; Corporate Law; Copyright Law; Technology Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2013-09-20 00:00:00
+",
+,,,,,"DISNEY ENTERPRISES, INC., et al., Plaintiffs, v. HOTFILE CORP., et al., Defendants.
+"
+"KEVIN MICHAEL MOORE
+",,,,,
+,"0:11-cv-62671 (S.D. Fla.);
+",,,,
+,,"Bankruptcy Law; International Trade Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-04-18 00:00:00
+",
+,,,,,"SNP BOAT SERVICE S.A., Appellant, v. HOTEL LE ST. JAMES, Appellee.
+"
+"Thomas G. Wilson
+",,,,,
+,"8:15-cv-02632 (M.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-05-11 00:00:00
+",
+,,,,,"HAIDER ALI KHAN, M.D., et al. v. BANKUNITED, INC., et al.
+"
+"Thomas E. Morris
+",,,,,
+,"3:11-cv-00719 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-07-17 00:00:00
+",
+,,,,,"PARKERVISION, INC., Plaintiff, vs. QUALCOMM INCORPORATED, Qualcomm. QUALCOMM INCORPORATED, Counterclaim Plaintiff, vs. PARKERVISION, INC. and STERNE, KESSLER, GOLDSTEIN & FOX, PLLC, Counterclaim Defendants.
+"
+"SUSAN C. BUCKLEW
+",,,,,
+,"8:11-cv-01638 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Tax & Accounting
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-11-27 00:00:00
+",
+,,,,,"ABRAHAM I. AWWAD, Plaintiff, v. LARGO MEDICAL CENTER, INC., Defendant.
+"
+,,,"While the Court concludes there may be circumstances justifying delay in disclosure of a surveillance tape, the Court finds that Defendant here has not pointed to any justification for delaying disclosure of the tape other than unsupported speculation that the Plaintiff's testimony may be altered in some way to reflect the events on the surveillance tape. The surveillance tape in this case — which the Defendant has submitted and the Court has reviewed — depicts what appears to be a typical slip and fall accident. The tape was not produced by an investigator depicting Plaintiff engaging in activities inconsistent with her claimed injuries. If that was the case there would be a compelling reason to delay disclosure of the tape. Because the tape here depicts the incident giving rise to Plaintiff's claim its primary evidentiary value is proof of the underlying facts surrounding the incident and not primarily for impeachment purposes. 
+",,
+"Gary R. Jones
+",,,,,
+,"5:14-cv-00093 (N.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2014-05-28 00:00:00
+",
+,,,,,"MARY SOWELL et al., Plaintiffs, v. TARGET CORPORATION, Defendant.
+"
+"ELIZABETH M TIMOTHY
+",,,,,
+,"5:12-cv-00307 (N.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2014-01-15 00:00:00
+",
+,,,,,"PATRICIA McADAMS, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of Social Security, Defendant.
+"
+"Carlos Eduardo Mendoza
+",,,,,
+,"6:11-cv-00715 (M.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-09-01 00:00:00
+",
+,,,,,"HEALTH FIRST, INC., Plaintiff, v. RICHARD HYNES, Defendant.
+"
+"Thomas B. Smith
+",,,,,
+,"6:13-cv-01708 (M.D. Fla.);
+",,,,
+,,"Employment Law; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-03-12 00:00:00
+",
+,,,,,"SELECTICA, INC., Plaintiff, v. NOVATUS, INC., Defendant.
+"
+"John Richard Smoak Jr
+",,,,,
+,"4:11-cv-00614 (N.D. Fla.); 4:12-cv-00170 (N.D. Fla.);
+",,,,
+,,"Civil Procedure; Patent Law
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2012-04-13 00:00:00
+",
+,,,,,"In Re WORLD WIDE MEDICAL TECH. LLC., et al., patent litigation consolidated cases, WORLD WIDE MEDICAL TECH. LLC., et al., Plaintiffs, vs. ONCURA INC., Defendants.
+"
+"David A. Baker
+",,,,,
+,,,,"2012-11-30 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"PACIFIC COAST MARINE WINDSHIELDS LIMITED, a foreign corporation, Plaintiff, -vs- MALIBU BOATS, LLC, a California limited liability company, MARINE HARDWARE, INC., TRESSMARK, INC., MH WINDOWS, LLC, JOHN F. PUGH, OWNER, PRESIDENT & CEO DARREN BACH, Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-22539 (S.D. Fla.);
+",,,,
+,,"Criminal Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-11-03 00:00:00
+",
+,,,,,"LATELE TELEVISION, C.A., Plaintiff, v. TELEMUNDO COMMUNICATIONS GROUP, LLC, et al., Defendants.
+"
+"David A. Baker
+",,,,,
+,,,,"2013-12-06 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"INDYNE, INC., Plaintiff, -vs- ABACUS TECHNOLOGY CORPORATION, JERRY RENINGER and MATTHEW BOYLAN, Defendants.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:12-cv-00942 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-05-19 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, for the use and benefit of RAGGHIANTI FOUNDATIONS III, LLC, Plaintiff, v. PETER R. BROWN CONSTRUCTION, INC., ET AL., Defendants.
+"
+,,,"""The parties are bound by the language of [the] contract . . . no matter how disadvantageous that language later proves to be for one party or the other."" In re Taylor, Bean & Whitaker Mortg. Corp., No. 3:09-bk-7047-JAF, [2015 BL 50260], 2015 Bankr. LEXIS 624 , 2015 WL 728493 , at *2 (M.D. Fla. Feb. 19, 2015) (noting that every provision in a contract should be given meaning and effect); eComSystems, Inc. v. Shared Mktg. Servs., Inc., No. 8:10-cv-1531-T-33MAP, [2012 BL 17808], 2012 U.S. Dist. LEXIS 6478 , 2012 WL 171083 , at *4 (M.D. Fla. Jan. 20, 2012) (noting that no contract provisions should be rendered superfluous and contracts should be construed to give effect to the intent of the parties).
+",,
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Contracts
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-03-10 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., an Indiana Limited Partnership, Plaintiff, v. EXPRESS SCRIPTS, INC., f/k/a Medco Health Solutions, Inc., f/k/a Merck-Medco Managed Care, LLC, Defendant.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure; Landlord & Tenant
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-07-27 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., Plaintiff, v. EXPRESS SCRIPTS, INC., Defendant.
+"
+"Mark A. Pizzo
+",,,,,
+,,,,"2013-07-02 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"UNITED STATES OF AMERICA, for the Use and Benefit of: RAGGHIANTI FOUNDATIONS III, LLC, Plaintiff, v. PETER R. BROWN CONSTRUCTION, INC., LIBERTY MUTUAL INSURANCE COMPANY, and SAFECO INSURANCE COMPANY OF AMERICA, Defendants.
+"
+"Ursula Ungaro
+",,,,,
+,"1:14-cv-23284 (S.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure; Conflict of Laws
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-06-03 00:00:00
+",
+,,,,,"ENERGY SMART INDUSTRY, LLC, Plaintiff, v. MORNING VIEW HOTELS-BEVERLY HILLS, LLC, Defendant.
+"
+"Gary R. Jones
+",,,,,
+,"1:11-cv-00196 (N.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2012-04-12 00:00:00
+",
+,,,,,"KIRK CIANCIOLO, D.O., Plaintiff, v. AVMED, INC., d/b/a AVMED HEALTH PLANS, Defendant.
+"
+"Barry S. Seltzer
+",,,,,
+,"0:15-cv-62488 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-09-15 00:00:00
+",
+,,,,,"ROCKET REAL ESTATE, LLC, and ERIC ROMANOW, Plaintiff, vs. LOURDES E. MAESTRES, Defendants.
+"
+"Thomas B. Smith
+",,,,,
+,"6:14-cv-00527 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-05-22 00:00:00
+",
+,,,,,"DARLENE COLEMAN, Plaintiff, v. STARBUCKS, Defendant.
+"
+"WILLIAM P. DIMITROULEAS
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-01-28 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. MANUEL CHRISTIANSON and BRIAN ASHTON, Plaintiff/Relator, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY., Defendant.
+"
+"CLYDE ROGER VINSON
+",,,,,
+,"3:09-cv-00395 (N.D. Fla.);
+",,,,
+,,"Torts; Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-07-09 00:00:00
+",
+,,,,,"ARCH INSURANCE COMPANY, a Missouri corporation, Plaintiff, v. UNITED STATES OF AMERICA, and AVENGE, INC., a Virginia corporation, Defendants.
+"
+"Charles A. Stampelos
+",,,,,
+,,,,"2013-07-18 00:00:00
+",
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,,"R.W.D. INNOVATIVE SPECIALTY TRIMS LLC, a Florida limited liability company, Plaintiff, vs. CRAIG A. OEHME, POLYTECHNICS CORPORATION, a California Corporation, Defendants.
+"
+"WILLIAM P. DIMITROULEAS
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies; Banking & Finance; Government
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-08-14 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. MANUEL CHRISTIANSEN and BRIAN ASHTON, Plaintiff/Relator, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY, Defendant.
+"
+"Lurana S. Snow
+",,,,,
+,"0:13-cv-60524 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-06-11 00:00:00
+",
+,,,,,"LIGHTHOUSE LIST COMPANY, LLC, Plaintiff, v. CROSS HATCH VENTURES CORP., et al., Defendants.
+"
+"Joel B. Toomey
+",,,,,
+,"3:09-cv-00446 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Criminal Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-07-15 00:00:00
+",
+,,,,,"GORDON LAWRIE, et al., individually and on behalf of all others similarly situated, Plaintiffs, v. GINN DEVELOPMENT COMPANY, LLC, et al., Defendants.
+"
+"Douglas N. Frazier
+",,,,,
+,,,,"2012-07-10 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"DAVID ALBERT SMITH, Plaintiff, -vs- MICHAEL J. ASTRUE COMMISSIONER OF SOCIAL SECURITY, Defendant.
+"
+"Charles A. Stampelos
+",,,,,
+,"1:15-cv-00251 (N.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2016-07-13 00:00:00
+",
+,,,,,"SHANNON LESLI LEVY, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of the Social Security Administration, Defendant.
+"
+"William Matthewman
+",,,,,
+,,,,"2014-04-07 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"UNITED STATES OF AMERICA, v. ROGELIO RAMOS, Defendant.
+"
+,,,"This relief is triggered either as a sanction (for failing to comply with the 30(b)(6) obligations) or as a natural consequence of not having a pre-trial position on certain topics. It would be fundamentally unfair if QBE did not provide 30(b)(6) testimony on certain matters, proclaimed a lack of its own knowledge, advocated that the association's refusal to cooperate should not impact it and then at trial take affirmative positions on these topics and seek to introduce evidence against Jorda. QBE impliedly recognized the inequity inherent in this type of trial scenario when it agreed that it would be bound by Mr. O'Brien's lack of knowledge. 
+",,
+"Jonathan Goodman
+",,,,,
+,"1:10-cv-21107 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-01-30 00:00:00
+",
+,,,,,"QBE INSURANCE CORPORATION, Plaintiff, v. JORDA ENTERPRISES, INC., Defendant.
+"
+,,,"Other courts have declined to require the logging of privileged, post-filing documents. See Douglas C. Rennie, Why the Beginning Should bethe End: The Argument for Exempting Postcomplaint Materials From Rule26(b)(5)(A)'s Privilege Log Requirement, 85 Tul. L. Rev. 109, 133 n.155 (2010) (collecting cases). At least two federal district courts have adopted local rules exempting post-complaint communications from the scope of discovery. S.D. Fla. Local. R. 26.1(g)(3)(C); N.D. Okla. Local Civ. R. 26.4. One judge explained that the Southern District of Florida's rule reflects ""[*17] a policy decision ... that[] despite the relevancy of a given document, in most cases, there is no good reason to require a party to go through the expense of a privilege log with respect to documents created after the commencement of a case."" Stern v. O'Quinn, 253 F.R.D. 663, 689 (S.D. Fla. 2008). 
+",,
+"Thomas B. Smith
+",,,,,
+,"6:12-cv-00854 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-10-25 00:00:00
+",
+,,,,,"TELEDYNE INSTRUMENTS, INC., Teledyne, v. JAMES L. CAIRNS, ABYSSAL SYSTEMS, INC., KATHRYN F. KRAUSE and THE STILLWATER TRUST, Defendants.
+"
+"VIRGINIA MARIA HERNANDEZ COVINGTON
+",,,,,
+,"8:12-cv-00942 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-09-19 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, for the use and benefit of RAGGHIANTI FOUNDATIONS III, LLC, Plaintiff, v. PETER R. BROWN CONSTRUCTION, ET AL., Defendants.
+"
+"Lurana S. Snow
+",,,,,
+,"0:10-cv-62411 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-03-05 00:00:00
+",
+,,,,,"QBE Insurance Corporation; Wynmoor Community Council, Inc.
+"
+"JAMES D. WHITTEMORE
+",,,,,
+,"8:08-cv-02446 (M.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2012-11-02 00:00:00
+",
+,,,,,"TAMPA BAY WATER, Plaintiff, vs. HDR ENGINEERING, Inc., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-03-18 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Gary R. Jones
+",,,,,
+,"1:11-cv-00232 (N.D. Fla.);
+",,,,
+,,"Labor Law; Damages & Remedies
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-12-24 00:00:00
+",
+,,,,,"SHELLY OLIVA individually, Plaintiff, v. INFINITE ENERGY, INC., Defendant.
+"
+,,"Civil Procedure
+",,,
+,,,,"2014-12-01 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Monte C. Richardson
+",,,,,
+,"3:11-cv-00447 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2012-01-24 00:00:00
+",
+,,,,,"INDEPENDENT MARKETING GROUP, INC., a Florida corporation, Plaintiff, vs. JERRY KEEN, an individual; BRIAN J. KEEN, an individual and WILLIAM MEGNA, an individual, Defendants.
+"
+"Thomas B. Smith
+",,,,,
+,"6:13-cv-01481 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-02-12 00:00:00
+",
+,,,,,"L-3 COMMUNICATIONS CORPORATION, Plaintiff, v. SPARTON CORPORATION and SPARTON ELECTRONICS FLORIDA, INC., Defendants.
+"
+"Anne C. Conway
+",,,,,
+,"6:11-cv-00137 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Copyright Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-02-25 00:00:00
+",
+,,,,,"INDYNE, INC., Plaintiff, v. ABACUS TECHNOLOGY CORPORATION, JERRY RENINGER and MATTHEW BOYLAN, Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Tax & Accounting
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-02-02 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-02-28 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+,,,"Generally speaking, courts do not require a forensic analysis in the absence of consent unless there has been significant non-compliance with discovery obligations. Powers v. Thomas M. Cooley Law School, No. 5:05-CV-117, 2006 U.S. Dist. LEXIS 67706 , 2006 WL 2711512 , at *5 (W.D. Mich. Sept. 21, 2006); Mirbeau of Geneva Lake LLC v. City of Lake Geneva, No. 08-CV-693, 2009 U.S. Dist. LEXIS 101104 , 2009 WL 3347101 , at *1 (E.D. Wis. Oct. 15, 2009) (forensic analysis appropriate ""[o]nly if the moving party can actually prove that the responding party has concealed information or lacks the expertise necessary to search and retrieve all relevant data""). Cf. Daimler Truck N. Am. LLC v. Younessi, No. 08-MC-5011RBL, 2008 U.S. Dist. LEXIS 86022 , 2008 WL 2519845 , at *3 (W.D. Wash. June 20, 2008) (denying forensic analysis where there was no evidence that documents were destroyed and where the court predicted the responding party would produce the discovery); U & I Corp. v. Advanced Med. Design, Inc., 251 F.R.D. 667 , 675-76 (M.D. Fla. 2008) (defendant satisfied In re Ford's non-compliance with discovery standard because plaintiff had committed several serious discovery violations).
+",,
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-12-30 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-04-24 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Karla R. Spaulding
+",,,,,
+,"6:11-cv-00715 (M.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-06-27 00:00:00
+",
+,,,,,"HEALTH FIRST, INC., Plaintiff, v. RICHARD HYNES, Defendant.
+"
+"John J. O’Sullivan
+",,,,,
+,"1:11-cv-23627 (S.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure; Corporate Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-07-26 00:00:00
+",
+,,,,,"ENERGY SMART INDUSTRY, LLC, Plaintiff v. BIG R OF LAMAR, INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-07-20 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Gary R. Jones
+",,,,,
+,"5:12-cv-00398 (N.D. Fla.);
+",,,,
+,,"Civil Procedure; Evidence; Banking & Finance
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-06-14 00:00:00
+",
+,,,,,"FEDERAL DEPOSIT INSURANCE CORPORATION, as Receiver for Peoples First Community Bank, Plaintiff, v. Greg M. BRUDNICKI, Joseph F. Chapman, III, Henry Clayton Futrell, Philip W. Griffitts, John Robert Middlemas, Jr., Rodney C. Morris, Raymond E. Powell, and John Stephen Wilson, II, Defendants.
+"
+"JAMES LAWRENCE KING
+",,,,,
+,"1:09-cv-21871 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-10-16 00:00:00
+",
+,,,,,"Timothy FINNERTY, Plaintiff, v. STIEFEL LABORATORIES, INC., et al., Defendants.
+"
+"Marcia Morales Howard
+",,,,,
+,"3:13-cv-00457 (M.D. Fla.);
+",,,,
+,,"Constitutional Law; Civil Procedure; Insurance Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-09-16 00:00:00
+",
+,,,,,"DIAMOND STATE INSURANCE COMPANY, Plaintiff, vs. BOYS’ HOME ASSOCIATION, INC., et al., Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Consumer Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-10-02 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:13-cv-22795 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-01-10 00:00:00
+",
+,,,,,"GAME CONTROLLER TECHNOLOGY LLC, Plaintiff, v. SONY COMPUTER ENTERTAINMENT AMERICA LLC and SONY CORPORATION OF AMERICA, Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:13-cv-22795 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-01-10 00:00:00
+",
+,,,,,"GAME CONTROLLER TECHNOLOGY LLC, Plaintiff, v. SONY COMPUTER ENTERTAINMENT AMERICA LLC and Sony Corporation of America, Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:12-cv-23568 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2013-01-29 00:00:00
+",
+,,,,,"WI-LAN USA, INC., and WI-LAN, INC., Plaintiffs, v. ALCATEL-LUCENT USA INC., Defendant.
+"
+"DONALD M. MIDDLEBROOKS
+",,,,,
+,"9:11-cv-80601 (S.D. Fla.); 9:11-cv-80638 (S.D. Fla.); 9:11-cv-80641 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-03-08 00:00:00
+",
+,,,,,"WINN-DIXIE STORES, INC,; WINN-DIXIE STORES LEASING, LLC; WINN-DIXIE RALEIGH, INC.; WINN-DIXIE RALEIGH LEASING, LLC; WINN-DIXIE MONTGOMERY, LLC; and WINN-DIXIE MONTGOMERY LEASING, LLC, Plaintiffs, v. DOLLAR TREE STORES, INC., a Virginia corporation, Defendant.; WINN-DIXIE STORES, INC.; WINN-DIXIE STORES LEASING, LLC; WINN-DIXIE RALEIGH, INC.; WINN-DIXIE RALEIGH LEASING, LLC; WINN-DIXIE MONTGOMERY, LLC; and WINN-DIXIE MONTGOMERY LEASING, LLC, Plaintiffs, v. BIG LOTS STORES, INC., an Ohio corporation, Defendant/Third-party Plaintiff,; WINN-DIXIE STORES, INC.; WINN-DIXIE STORES LEASING, LLC; WINN-DIXIE RALEIGH, INC.; WINN-DIXIE RALEIGH LEASING, LLC; WINN-DIXIE MONTGOMERY, LLC; and WINN-DIXIE MONTGOMERY LEASING, LLC, Plaintiffs, v. DOLGENCORP, LLC, f/k/a DOLGENCORP, INC., a Kentucky corporation, Defendant/Third Party Plaintiff,
+"
+"Thomas G. Wilson
+",,,,,
+,"8:06-cv-01950 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2012-09-06 00:00:00
+",
+,,,,,"WAYNE R. GRAY Plaintiff, v. NOVELL, INC., THE SCO GROUP, INC., and X/OPEN LIMITED Defendants.
+"
+"ELIZABETH ANNE KOVACHEVICH
+",,,,,
+,"8:13-cv-01209 (M.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-09-10 00:00:00
+",
+,,,,,"KENNETH DOIG, Plaintiff, v. CAROLYN W. COLVIN, Acting Commissioner of Social Security, Defendant.
+"
+,,,,,"Under the work product doctrine, documents and other ""tangible things"" are not discoverable by a party when they were ""prepared in anticipation of litigation or for trial by or for another party or its representative (including the other party's attorney, consultant, surety, indemnitor, insurer, or agent).""  Id. at 26(b)(3)(A) . These protected materials may be discovered, however, if ""they are otherwise discoverable under Rule 26(b)(1) "" and the party seeking production ""shows that it has substantial need for the materials to prepare its case and cannot, without undue hardship, obtain their substantial equivalent by other means."" Id . 
+"
+"Julie Sneed
+",,,,,
+,"8:16-cv-00088 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-07-01 00:00:00
+",
+,,,,,"CENTENNIAL BANK, Plaintiff, v. SERVISFIRST BANK INC. and GREGORY W. BRYANT, Defendants.
+"
+"Elizabeth A. Jenkins
+",,,,,
+,"8:12-cv-00557 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-06-10 00:00:00
+",
+,,,,,"BURTON W. WIAND, ESQ., as Court-Appointed Receiver for SCOOP REAL ESTATE, L.P., et al., Plaintiff, vs. WELLS FARGO BANK, N.A., et al., Defendants.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01732 (M.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-05-11 00:00:00
+",
+,,,,,"NORIS BABB, Plaintiff, v. ROBERT A. MCDONALD, SECRETARY, DEPARTMENT OF VETERANS AFFAIRS, Defendant.
+"
+,,,"Even so, courts have recognized the value and remaining viability of a claim of secondary liability: ""When a widely shared service or product is used to commit infringement, it may be impossible to enforce rights in the protected work effectively against all direct infringers, the only practical alternative being to go against the distributor of the copying device for secondary liability on a theory of contributory or vicarious infringement."" Metro-Goldwyn-Mayer Studios, Inc. v. Grokster, Ltd., 545 U.S. 913, 929-30 (2005) (citation omitted); Perfect 10, Inc. v. Amazon.com, Inc., 508 F.3d 1146, 1171 n.11 (9th Cir. 2007) (""[C]opyright holders cannot protect their rights in a meaningful way unless they can hold providers of such services or products accountable for their actions."") These theories of secondary liability - contributory infringement, inducement liability and vicarious liability - are court-created and do not rely on the Copyright Act or another statute. See Viacom Int'l Inc., 676 F.3d at 28 n.5 (citing Grokster, 545 U.S. at 930-31 ); Perfect 10, Inc. v. Visa Int'l Serv. Ass'n, 494 F.3d 788, 795 (9th Cir. 2007) (""Contributory copyright infringement is a form of secondary liability with roots in the tort-law concepts of enterprise liability and imputed intent."").
+",,
+,,,"
+",,
+"KATHLEEN MARY WILLIAMS
+",,,,,
+,"1:11-cv-20427 (S.D. Fla.);
+",,,,
+,,"Torts; Corporate Law; Copyright Law; Technology Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2013-09-20 00:00:00
+",
+,,,,,"DISNEY ENTERPRISES, INC., et al., Plaintiffs, v. HOTFILE CORP., et al., Defendants.
+"
+"KEVIN MICHAEL MOORE
+",,,,,
+,"0:11-cv-62671 (S.D. Fla.);
+",,,,
+,,"Bankruptcy Law; International Trade Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-04-18 00:00:00
+",
+,,,,,"SNP BOAT SERVICE S.A., Appellant, v. HOTEL LE ST. JAMES, Appellee.
+"
+"Thomas G. Wilson
+",,,,,
+,"8:15-cv-02632 (M.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-05-11 00:00:00
+",
+,,,,,"HAIDER ALI KHAN, M.D., et al. v. BANKUNITED, INC., et al.
+"
+"Thomas E. Morris
+",,,,,
+,"3:11-cv-00719 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-07-17 00:00:00
+",
+,,,,,"PARKERVISION, INC., Plaintiff, vs. QUALCOMM INCORPORATED, Qualcomm. QUALCOMM INCORPORATED, Counterclaim Plaintiff, vs. PARKERVISION, INC. and STERNE, KESSLER, GOLDSTEIN & FOX, PLLC, Counterclaim Defendants.
+"
+"SUSAN C. BUCKLEW
+",,,,,
+,"8:11-cv-01638 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Tax & Accounting
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-11-27 00:00:00
+",
+,,,,,"ABRAHAM I. AWWAD, Plaintiff, v. LARGO MEDICAL CENTER, INC., Defendant.
+"
+,,,"While the Court concludes there may be circumstances justifying delay in disclosure of a surveillance tape, the Court finds that Defendant here has not pointed to any justification for delaying disclosure of the tape other than unsupported speculation that the Plaintiff's testimony may be altered in some way to reflect the events on the surveillance tape. The surveillance tape in this case — which the Defendant has submitted and the Court has reviewed — depicts what appears to be a typical slip and fall accident. The tape was not produced by an investigator depicting Plaintiff engaging in activities inconsistent with her claimed injuries. If that was the case there would be a compelling reason to delay disclosure of the tape. Because the tape here depicts the incident giving rise to Plaintiff's claim its primary evidentiary value is proof of the underlying facts surrounding the incident and not primarily for impeachment purposes. 
+",,
+"Gary R. Jones
+",,,,,
+,"5:14-cv-00093 (N.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2014-05-28 00:00:00
+",
+,,,,,"MARY SOWELL et al., Plaintiffs, v. TARGET CORPORATION, Defendant.
+"
+"ELIZABETH M TIMOTHY
+",,,,,
+,"5:12-cv-00307 (N.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2014-01-15 00:00:00
+",
+,,,,,"PATRICIA McADAMS, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of Social Security, Defendant.
+"
+"Carlos Eduardo Mendoza
+",,,,,
+,"6:11-cv-00715 (M.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-09-01 00:00:00
+",
+,,,,,"HEALTH FIRST, INC., Plaintiff, v. RICHARD HYNES, Defendant.
+"
+"Thomas B. Smith
+",,,,,
+,"6:13-cv-01708 (M.D. Fla.);
+",,,,
+,,"Employment Law; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-03-12 00:00:00
+",
+,,,,,"SELECTICA, INC., Plaintiff, v. NOVATUS, INC., Defendant.
+"
+"John Richard Smoak Jr
+",,,,,
+,"4:11-cv-00614 (N.D. Fla.); 4:12-cv-00170 (N.D. Fla.);
+",,,,
+,,"Civil Procedure; Patent Law
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2012-04-13 00:00:00
+",
+,,,,,"In Re WORLD WIDE MEDICAL TECH. LLC., et al., patent litigation consolidated cases, WORLD WIDE MEDICAL TECH. LLC., et al., Plaintiffs, vs. ONCURA INC., Defendants.
+"
+"David A. Baker
+",,,,,
+,,,,"2012-11-30 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"PACIFIC COAST MARINE WINDSHIELDS LIMITED, a foreign corporation, Plaintiff, -vs- MALIBU BOATS, LLC, a California limited liability company, MARINE HARDWARE, INC., TRESSMARK, INC., MH WINDOWS, LLC, JOHN F. PUGH, OWNER, PRESIDENT & CEO DARREN BACH, Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-22539 (S.D. Fla.);
+",,,,
+,,"Criminal Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-11-03 00:00:00
+",
+,,,,,"LATELE TELEVISION, C.A., Plaintiff, v. TELEMUNDO COMMUNICATIONS GROUP, LLC, et al., Defendants.
+"
+"David A. Baker
+",,,,,
+,,,,"2013-12-06 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"INDYNE, INC., Plaintiff, -vs- ABACUS TECHNOLOGY CORPORATION, JERRY RENINGER and MATTHEW BOYLAN, Defendants.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:12-cv-00942 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-05-19 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, for the use and benefit of RAGGHIANTI FOUNDATIONS III, LLC, Plaintiff, v. PETER R. BROWN CONSTRUCTION, INC., ET AL., Defendants.
+"
+,,,"""The parties are bound by the language of [the] contract . . . no matter how disadvantageous that language later proves to be for one party or the other."" In re Taylor, Bean & Whitaker Mortg. Corp., No. 3:09-bk-7047-JAF, [2015 BL 50260], 2015 Bankr. LEXIS 624 , 2015 WL 728493 , at *2 (M.D. Fla. Feb. 19, 2015) (noting that every provision in a contract should be given meaning and effect); eComSystems, Inc. v. Shared Mktg. Servs., Inc., No. 8:10-cv-1531-T-33MAP, [2012 BL 17808], 2012 U.S. Dist. LEXIS 6478 , 2012 WL 171083 , at *4 (M.D. Fla. Jan. 20, 2012) (noting that no contract provisions should be rendered superfluous and contracts should be construed to give effect to the intent of the parties).
+",,
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Contracts
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-03-10 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., an Indiana Limited Partnership, Plaintiff, v. EXPRESS SCRIPTS, INC., f/k/a Medco Health Solutions, Inc., f/k/a Merck-Medco Managed Care, LLC, Defendant.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure; Landlord & Tenant
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-07-27 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., Plaintiff, v. EXPRESS SCRIPTS, INC., Defendant.
+"
+"Mark A. Pizzo
+",,,,,
+,,,,"2013-07-02 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"UNITED STATES OF AMERICA, for the Use and Benefit of: RAGGHIANTI FOUNDATIONS III, LLC, Plaintiff, v. PETER R. BROWN CONSTRUCTION, INC., LIBERTY MUTUAL INSURANCE COMPANY, and SAFECO INSURANCE COMPANY OF AMERICA, Defendants.
+"
+"Ursula Ungaro
+",,,,,
+,"1:14-cv-23284 (S.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure; Conflict of Laws
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-06-03 00:00:00
+",
+,,,,,"ENERGY SMART INDUSTRY, LLC, Plaintiff, v. MORNING VIEW HOTELS-BEVERLY HILLS, LLC, Defendant.
+"
+"Gary R. Jones
+",,,,,
+,"1:11-cv-00196 (N.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2012-04-12 00:00:00
+",
+,,,,,"KIRK CIANCIOLO, D.O., Plaintiff, v. AVMED, INC., d/b/a AVMED HEALTH PLANS, Defendant.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Appellate Procedure; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-09-08 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., Plaintiff, v. EXPRESS SCRIPTS, INC., Defendant.
+"
+"VIRGINIA MARIA HERNANDEZ COVINGTON
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Evidence
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-06-15 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., Plaintiff, v. EXPRESS SCRIPTS, INC., Defendant.
+"
+"William Matthewman
+",,,,,
+,"0:14-cv-62216 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-03-22 00:00:00
+",
+,,,,,"LIVING COLOR ENTERPRISES, INC., a Florida corporation, Plaintiff, vs. NEW ERA AQUACULTURE, LTD., a United Kingdom Private limited company; AQUA-TECH CO., an Illinois corporation; JOHN T. O’ROURKE, an individual; DANIEL LEYDEN, an individual; and WORLD FEEDS, LTD., a United Kingdom Private limited company, Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,,,"2014-03-26 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+,,,"Having found no grounds to award Eisai attorney's fees under the FCA or § 1927 , the undersigned finds that there is no basis to entertain a fee award under the Court's inherent power.
+",,
+"William C. Turnoff
+",,,,,
+,"1:09-cv-22302 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Banking & Finance
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-03-30 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, et al., ex rel. KEELER, Plaintiffs, v. EISAI, INC., Defendant.
+"
+"William Matthewman
+",,,,,
+,"9:12-cv-81223 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-04-07 00:00:00
+",
+,,,,,"FRED DEVRIES, etc. et al., individually and on behalf of others sim ilarly situated, Plaintiffs, VS. MORGAN STANLEY & CO. LLC, f/k/a Morgan Stanley & Co. Inc., etc. et al., Defendants.
+"
+"Andrea M. Simonton
+",,,,,
+,"0:11-cv-62484 (S.D. Fla.);
+",,,,
+,,,,"2012-07-18 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PRAGMATUS AV, LLC, Plaintiff, v. CITRIX SYSTEMS, INC., Defendant.
+"
+"Andrea M. Simonton
+",,,,,
+,"0:11-cv-62484 (S.D. Fla.);
+",,,,
+,,,,"2012-07-18 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PRAGMATUS AV, LLC, Plaintiff, vs. CITRIX SYSTEMS, INC., Defendant.
+"
+"Douglas N. Frazier
+",,,,,
+,"2:10-cv-00341 (M.D. Fla.);
+",,,,
+,,"Patent Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-10-22 00:00:00
+",
+,,,,,"TECHNOLOGY INNOVATIONS, LLC, Plaintiff, v. NSTEIN TECHNOLOGIES, INC. and OPEN TEXT CORPORATION, Defendants.
+"
+,,,"Given that courts evaluate requests for additional depositions on a case-by-case basis, it is hardly surprising to find cases going both ways. See Andrews v. Fowler, 98 F.3d 1069 , 1080 (8th Cir. 1996) (civil rights claimant not entitled to take additional depositions of city council members and other witnesses when she was already permitted to take twelve depositions, two more than permitted without leave of court); Alexander v. Federal [*5] Bureau of Investigation, 192 F.R.D. 20 (D.D.C. 2000) (allowing plaintiffs to take the deposition of a new nonparty witness even though they had exhausted the limit for the number of depositions because the witness' knowledge had only recently come to plaintiffs' attention).
+",,
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-05-05 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Lurana S. Snow
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-12-12 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, and THE STATE OF FLORIDA, ex rel. MANUEL CHRISTIANSEN and BRIAN ASHTON, Relators, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY, Defendant.
+"
+"Alicia O. Valle
+",,,,,
+,"0:13-cv-62321 (S.D. Fla.);
+",,,,
+,,,,"2014-05-16 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PATRICIA GUNSON, On Behalf of Herself and All Others Similarly Situated, Plaintiff, v. BMO HARRIS BANK, N.A., FIRST PREMIER BANK, a South Dakota State-Chartered Ban, MISSOURI BANK AND TRUST, a Missouri State-Chartered Bank, FOUR OAKS BANK & TRUST, a North Carolina-Chartered Bank, and MUTUAL OF OMAHA BANK, Defendants.
+"
+"Barry S. Seltzer
+",,,,,
+,,,,"2014-07-03 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"CARLOS CABRERA, Plaintiff, vs. GOVERNMENT EMPLOYEES INSURANCE COMPANY, a Maryland corporation, and BELL, LLC, a Florida limited liability company, Defendants.
+"
+"Monte C. Richardson
+",,,,,
+,"3:15-cv-00934 (M.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-09-16 00:00:00
+",
+,,,,,"CATHERINE M. DICKS, Plaintiff, v. CAROLYN W. COLVIN, Commissioner of the Social Security Administration, Defendant.
+"
+"Anthony E. Porcelli
+",,,,,
+,,,,"2013-02-21 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"GARDITH S. LEMY, et al., Plaintiffs, v. DIRECT GENERAL FINANCE COMPANY, et al., Defendants.
+"
+"SUSAN C. BUCKLEW
+",,,,,
+,"8:11-cv-00775 (M.D. Fla.);
+",,,,
+,,,,"2015-03-13 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"AMERITOX, LTD., Plaintiff, v. MILLENNIUM LABORATORIES, INC., Defendant.
+"
+,"6:15-cv-01657 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Class Actions
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-06-09 00:00:00
+",
+,,,,,"SHANA FREEDMAN, Plaintiff, v. SUNTRUST BANKS, INC. and SUNTRUST MORTGAGE, INC., Defendants.
+"
+,,,"The undersigned agrees with the Defendant that neither the $35.00 costs of CD depo litigation packages for eight witnesses (ECF No. 326-4 at 3, 6, 8, 10, 12, 14, 16, 18), the $25.00 charge for electronic delivery (ECF No. 326-4 at 6), nor the $1,625.00 for video synchronization (ECF No. 326-4 at 4, 9, 11, 13, 15, 17, 19) are taxable, resulting in a reduction in taxable transcript costs of $1,930.00. Regarding the expedited production costs, identified by the Relators as [*4] totaling $3,257.62 (ECF No. 326 at 7)2, the Relators contend that these costs were reasonably incurred because of the need to refer to these depositions in their motion for summary judgment. The Defendant points out that the deadline for filing motions for summary judgment had been set for more than a year, and two of the expedited depositions were taken after that deadline. The undersigned finds that the need for expedited depositions was created by the Relators themselves, who could have scheduled the depositions in time for ordinary production and delivery. Accordingly, the costs for expediting the depositions is not taxable, resulting in a total award for transcripts of $21,678.43 ($26,866.05 - $1,930.00 - $3,257.62).
+",,
+"Lurana S. Snow
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-11-13 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, and THE STATE OF FLORIDA, ex rel. MANUEL CHRISTIANSEN and BRIAN ASHTON, Relators, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY, Defendant.
+"
+"Harvey Edwin Schlesinger
+",,,,,
+,"3:12-cv-01366 (M.D. Fla.);
+",,,,
+,,"Evidence; Class Actions
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-05-11 00:00:00
+",
+,,,,,"PB PROPERTY MANAGEMENT, INC., JANET HELM, JIMMY JEWELL, DEBORAH L. WAGNER, and STANLEY H. WAGNER, individually and on behalf of all others similarly situated, Plaintiffs, vs. GOODMAN MANUFACTURING COMPANY, L.P. GOODMAN GLOBAL, INC., and GOODMAN COMPANY, L.P., Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-22539 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Copyright Law; Trademark Law; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-11-10 00:00:00
+",
+,,,,,"LATELE TELEVISION, C.A., Plaintiff, v. TELEMUNDO COMMUNICATIONS GROUP, LLC, et al., Defendants.
+"
+"Robin S. Rosenbaum
+",,,,,
+,"0:12-cv-61742 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2013-04-10 00:00:00
+",
+,,,,,"AMANDA MATHIS, et al., Plaintiffs, vs. DARDEN RESTAURANTS, INC., et al., Defendants.
+"
+"JAMES D. WHITTEMORE
+",,,,,
+,"8:14-cv-00396 (M.D. Fla.);
+",,,,
+,,"Employment Law; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-04-16 00:00:00
+",
+,,,,,"CAROL ROBLING, Plaintiff, v. ITT EDUCATIONAL SERVICES, INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-22539 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-12-16 00:00:00
+",
+,,,,,"LATELE TELEVISION, C.A., Plaintiff, v. TELEMUNDO COMMUNICATIONS GROUP, LLC, et al., Defendants.
+"
+,"9:14-cv-81397 (S.D. Fla.);
+",,,,
+,,"Antitrust & Trade; Privacy & Information Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-06-17 00:00:00
+",
+,,,,,"Boost Software, Inc.; Federal Trade Commission; State of Florida
+"
+"Barry S. Seltzer
+",,,,,
+,"9:15-cv-81139 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Consumer Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-03-28 00:00:00
+",
+,,,,,"BENJAMIN HANKINSON, JAMES GUERRA, JEANETTE GANDOLFO, individually and on behalf of others similarly situated, Plaintiffs, vs. R.T.G. FURNITURE CORP., d/b/a ROOMS TO GO, Defendant.
+"
+"ELIZABETH M TIMOTHY
+",,,,,
+,"5:12-cv-00352 (N.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-11-05 00:00:00
+",
+,,,,,"ZINA M. ROBINSON, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of Social Security, Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-10-20 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"ELIZABETH M TIMOTHY
+",,,,,
+,,,,"2013-02-11 00:00:00
+",
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,,"BRENDA CALVERT, Plaintiff, vs. MICHAEL J. ASTRUE, Commissioner of the Social Security Administration, Defendant.
+"
+,,,,,"Rule 37 of the Federal Rules of Civil Procedure authorizes a motion to compel discovery when a party fails to provide proper response to requests for production of documents under Rule 34. Fed. R. Civ. P. 37(a)(3)(B) . ""The proponent of a motion to compel discovery ... bears the initial burden of proving that the information sought is relevant."" Moore v. Lender Processing Servs. Inc., No. 3:12-CV-205-J, 2013 U.S. Dist. LEXIS 78971 , [2013 BL 147400], 2013 WL 2447948 , at *2 (M.D. Fla. June 5, 2013) (internal quotations omitted) (quoting Diamond State Ins. Co. v. His House, Inc., No. 10-20039-CIV, 2011 U.S. Dist. LEXIS 5808 , [2011 BL 420554], 2011 WL 146837 , at *5 (S.D. Fla. Jan. 18, 2011)). The party moving to compel discovery must certify that it ""has in good faith conferred or attempted to confer with the person or party failing to make disclosure or discovery in an effort to obtain it without court action."" Fed. R. Civ. P. 37(a)(1) . See also M.D. Fla. R. 3.01(g) .
+"
+"Thomas B. Smith
+",,,,,
+,"6:14-cv-00399 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-09-25 00:00:00
+",
+,,,,,"LOCAL ACCESS, LLC, et al., Plaintiffs, v. PEERLESS NETWORK, INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-10-20 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+,"1:15-md-02599 (S.D. Fla.);
+",,,,
+,,"Family Law
+",,,
+,,,,"2015-12-08 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"IN RE: TAKATA AIRBAG PRODUCTS LIABILITY LITIGATION. THIS DOCUMENT RELATES TO ALL ACTIONS
+"
+"Joel B. Toomey
+",,,,,
+,"3:09-cv-00446 (M.D. Fla.);
+",,,,
+,,,,"2013-01-09 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"GORDON LAWRIE, et al., individually and on behalf of all others similarly situated, Plaintiffs, v. GINN DEVELOPMENT COMPANY, LLC, et al., Defendants.
+"
+"KEVIN MICHAEL MOORE
+",,,,,
+,"1:15-cv-21826 (S.D. Fla.);
+",,,,
+,,"Torts; Products Liability; Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-02-01 00:00:00
+",
+,,,,,"MAGGIE TSAVARIS, Plaintiff, v. PFIZER, INC.; WYETH, INC. and its divisions WYETH PHARMACEUTICALS, INC., ESI LEDERLE, and WYETH LLC.; NOVO NORDISK A/S, a Denmark corporation; NOVO NORDISK INC, a Delaware corporation; and BRECKENRIDGE PHARMACEUTICAL, INC., a Delaware corporation, Defendants.
+"
+"ELIZABETH M TIMOTHY
+",,,,,
+,"5:12-cv-00383 (N.D. Fla.);
+",,,,
+,,,,"2014-01-03 00:00:00
+",
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,,"PATRICIA A. FIELDER, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of Social Security,1 Defendant.
+"
+,,,"Other courts, however, have held that the heightened pleading standard of Twombly [*681] and Iqbal does not apply to affirmative defenses. See, e.g., Tarasewicz v. Royal Caribbean Cruises Ltd., No. 14-CIV-60885, 2015 U.S. Dist. LEXIS 45923 , [2015 BL 100090], 2015 WL 1566398 , at *2 (S.D. Fla. Apr. 8, 2015); Sparta Ins. Co. v. Colareta, No. 13-60579-CIV, 2013 U.S. Dist. LEXIS 146700 , [2013 BL 398794], 2013 WL 5588140 , at *1 (S.D. Fla. Oct. 10, 2013); Gonzalez v. Midland Credit Mgmt., Inc., No. 6:13-CV-1576-ORL-37, 2013 U.S. Dist. LEXIS 160093 , [2013 BL 311555], 2013 WL 5970721 , at *3 (M.D. Fla. Nov. 8, 2013); Ramnarine v. CP RE Holdco 2009-1, LLC, No. 12-61716-CIV, 2013 U.S. Dist. LEXIS 60009 , [2013 BL 112258], 2013 WL 1788503 , at *1 (S.D. Fla. Apr. 26, 2013); Adams v. JP Morgan Chase Bank, N.A., No. 3:11-cv-337-J-37MCR, 2011 U.S. Dist. LEXIS 79366 , [2011 BL 190520], 2011 WL 2938467 , at *2-3 (M.D. Fla. July 21, 2011); Floyd v. SunTrust Banks, Inc., No. 1:10-CV-2620-RWS, 2011 U.S. Dist. LEXIS 65190 , [2011 BL 422441], 2011 WL 2441744 (N.D. Ga. June 13, 2011); Jackson v. City of Centreville, 269 F.R.D. 661 (N.D. Ala. 2010); Blanc v. Safetouch, Inc., No. 3:07-cv-1200-J-25TEM, 2008 U.S. Dist. LEXIS 68158 , [2008 BL 193592], 2008 WL 4059786 , at *1 (M.D. Fla. Aug. 27, 2008). In support, these courts point to the differences between Rule 8(a), which governs the pleading of claims, and Rules 8(b) and (c), which apply to affirmative defenses. Sparta, 2013 U.S. Dist. LEXIS 146700 , [2013 BL 398794], 2013 WL 5588140 , at *2. Rule 8(a)(2) requires that a claim for relief contain ""a short and plain statement of the claim showing that the pleader is entitled to relief,"" while Rule 8(b)(1)(A) provides only that, when responding to a pleading, a party must ""state in short and plain terms its defenses to each claim asserted against it."" Id .; see also Fed. R. Civ. P. 8(a)(2) , (b)(1)(A). Similarly, Rule 8(c) requires a party to ""affirmatively state any avoidance or affirmative defense."" Sparta, 2013 U.S. Dist. LEXIS 146700 , [2013 BL 398794], 2013 WL 5588140 , at *2; see also Fed. R. Civ. P. 8(c) .
+",,
+,,,"""To state"" means ""[t]o set forth in words; declare,"" while ""to show"" refers to the practice of ""demonstrat[ing] by reasoning or procedure"" or ""demonstrat[ing] to by reasoning or procedure; inform[ing] or prov[ing] to: showed him how to fix the camera; showed her that it could really happen."" Thus, showing requires significantly more than stating alone.
+",,
+"KEVIN MICHAEL MOORE
+",,,,,
+,"1:15-cv-21826 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-09-25 00:00:00
+",
+,,,,,"MAGGIE TSAVARIS, Plaintiff, v. PFIZER, INC.; WYETH, Inc. and its divisions WYETH PHARMACEUTICALS, INC. and ESI LEDERLE, and WYETH LLC.; NOVO NORDISK A/S, a Denmark corporation; NOVO NORDISK INC, a Delaware corporation; and BRECKENRIDGE PHARMACEUTICAL, INC., a Delaware corporation, Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:15-cv-24067 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-04-15 00:00:00
+",
+,,,,,"ROTHSCHILD CONNECTED DEVICES INNOVATIONS, LLC, Plaintiff, v. THE COCA-COLA COMPANY, Defendant.
+"
+"David A. Baker
+",,,,,
+,"6:14-cv-00533 (M.D. Fla.);
+",,,,
+,,"Torts; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-01-28 00:00:00
+",
+,,,,,"ADVANTOR SYSTEMS CORPORATION, Plaintiff, v. DRS TECHNICAL SERVICES, INC., Defendant.
+"
+"John J. O’Sullivan
+",,,,,
+,"1:14-cv-23130 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-10-16 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, Plaintiff, v. LUCVENS FRANCOIS, individually and d/b/a TAX RESOURCE CENTER, URBAN SIRE, LLC, and THE CITEDALE GROUP, INC., Defendant.
+"
+"William Matthewman
+",,,,,
+,"9:12-cv-81223 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-10-30 00:00:00
+",
+,,,,,"FRED DEVRIES, et al., individually and on behalf of others similarly situated, Plaintiffs, v. MORGAN STANLEY & CO. LLC, f/k/a Morgan Stanley & Co. Inc., etc. et al., Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:14-cv-23130 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-11-05 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, Plaintiff, v. LUCVENS FRANCOIS, Defendant.
+"
+,,,"Thus, the question before the Court is whether this case is ""exceptional,"" such that Defendants, as the prevailing party in this suit, are entitled to an award of attorney's fees pursuant to § 285 .
+",,
+"William C. Turnoff
+",,,,,
+,"9:12-cv-81022 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-11-20 00:00:00
+",
+,,,,,"NET TALK.COM, INC., Plaintiff, vs. MAGICJACK VOCALTEC LTD., MAGICJACK LP, MAGICJACK HOLDINGS CORPORATION, and MICHELE BORISLOW, personal representative of the Estate of Daniel Borislow, Defendants.
+"
+"Thomas B. Smith
+",,,,,
+,"6:14-cv-00399 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Privacy & Information Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-09-24 00:00:00
+",
+,,,,,"LOCAL ACCESS, LLC, et al., Plaintiffs, v. PEERLESS NETWORK, INC., Defendant.
+"
+"Karla R. Spaulding
+",,,,,
+,,,,"2013-11-27 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"UNITED STATES OF AMERICA -vs- HUSEIN KERMALI
+"
+"Thomas B. McCoun III
+",,,,,
+,"8:11-cv-01303 (M.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-11-14 00:00:00
+",
+,,,,,"THE UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. ANGELA RUCKH, Plaintiff, v. GENOA HEALTHCARE CONSULTING, LLC, d/b/a LAVIE CARE CENTERS, and SALUS REHABILITATION, LLC, d/b/a LAVIE REHAB, Defendants.
+"
+"Barry S. Seltzer
+",,,,,
+,"0:15-cv-62488 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-09-15 00:00:00
+",
+,,,,,"ROCKET REAL ESTATE, LLC, and ERIC ROMANOW, Plaintiff, vs. LOURDES E. MAESTRES, Defendants.
+"
+"Alicia M. Otazo-Reyes
+",,,,,
+,"1:14-cv-23193 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-03-21 00:00:00
+",
+,,,,,"QUANTUM CAPITAL, LLC, a Florida Limited Liability Company, Plaintiff, v. BANCO DE LOS TRABAJADORES, a Guatemalan entity, SERGIO HERNANDEZ, EDUARDO LIU, and RONALD GARCIA, Defendants.
+"
+"Thomas B. McCoun III
+",,,,,
+,,,,"2014-07-02 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"DANIEL HITCHCOCK and CONSUMER ENERGY PARTNERS, INC., Plaintiffs, v. ALBERT J. SCIPIONE, Defendant.
+"
+"JAMES D. WHITTEMORE
+",,,,,
+,"8:12-cv-01479 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-08-21 00:00:00
+",
+,,,,,"PODS ENTERPRISES, LLC, Plaintiff, vs. U-HAUL INTERNATIONAL, INC., Defendant.
+"
+"Thomas B. Smith
+",,,,,
+,"6:15-cv-00999 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-08-08 00:00:00
+",
+,,,,,"JASON DARNELL, Plaintiff, v. ALEJANDRO RIVERA, ALPHONSO WILLIAMS and JOHN DOES 1-5, Defendants.
+"
+"John J. O’Sullivan
+",,,,,
+,"1:15-cv-24565 (S.D. Fla.);
+",,,,
+,,"Evidence; Privacy & Information Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-08-16 00:00:00
+",
+,,,,,"TRACFONE WIRELESS, INC., Plaintiff v. SIMPLY WIRELESS, INC., et al, Defendants.
+"
+"Barry S. Seltzer
+",,,,,
+,"0:15-cv-62488 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-09-15 00:00:00
+",
+,,,,,"ROCKET REAL ESTATE, LLC, and ERIC ROMANOW, Plaintiff, vs. LOURDES E. MAESTRES, Defendants.
+"
+"Thomas B. Smith
+",,,,,
+,"6:14-cv-00527 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-05-22 00:00:00
+",
+,,,,,"DARLENE COLEMAN, Plaintiff, v. STARBUCKS, Defendant.
+"
+"WILLIAM P. DIMITROULEAS
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-01-28 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. MANUEL CHRISTIANSON and BRIAN ASHTON, Plaintiff/Relator, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY., Defendant.
+"
+"CLYDE ROGER VINSON
+",,,,,
+,"3:09-cv-00395 (N.D. Fla.);
+",,,,
+,,"Torts; Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-07-09 00:00:00
+",
+,,,,,"ARCH INSURANCE COMPANY, a Missouri corporation, Plaintiff, v. UNITED STATES OF AMERICA, and AVENGE, INC., a Virginia corporation, Defendants.
+"
+"Charles A. Stampelos
+",,,,,
+,,,,"2013-07-18 00:00:00
+",
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,,"R.W.D. INNOVATIVE SPECIALTY TRIMS LLC, a Florida limited liability company, Plaintiff, vs. CRAIG A. OEHME, POLYTECHNICS CORPORATION, a California Corporation, Defendants.
+"
+"WILLIAM P. DIMITROULEAS
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies; Banking & Finance; Government
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-08-14 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. MANUEL CHRISTIANSEN and BRIAN ASHTON, Plaintiff/Relator, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY, Defendant.
+"
+"Lurana S. Snow
+",,,,,
+,"0:13-cv-60524 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-06-11 00:00:00
+",
+,,,,,"LIGHTHOUSE LIST COMPANY, LLC, Plaintiff, v. CROSS HATCH VENTURES CORP., et al., Defendants.
+"
+"Joel B. Toomey
+",,,,,
+,"3:09-cv-00446 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Criminal Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-07-15 00:00:00
+",
+,,,,,"GORDON LAWRIE, et al., individually and on behalf of all others similarly situated, Plaintiffs, v. GINN DEVELOPMENT COMPANY, LLC, et al., Defendants.
+"
+"Douglas N. Frazier
+",,,,,
+,,,,"2012-07-10 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"DAVID ALBERT SMITH, Plaintiff, -vs- MICHAEL J. ASTRUE COMMISSIONER OF SOCIAL SECURITY, Defendant.
+"
+"Charles A. Stampelos
+",,,,,
+,"1:15-cv-00251 (N.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2016-07-13 00:00:00
+",
+,,,,,"SHANNON LESLI LEVY, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of the Social Security Administration, Defendant.
+"
+"William Matthewman
+",,,,,
+,,,,"2014-04-07 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"UNITED STATES OF AMERICA, v. ROGELIO RAMOS, Defendant.
+"
+,,,"This relief is triggered either as a sanction (for failing to comply with the 30(b)(6) obligations) or as a natural consequence of not having a pre-trial position on certain topics. It would be fundamentally unfair if QBE did not provide 30(b)(6) testimony on certain matters, proclaimed a lack of its own knowledge, advocated that the association's refusal to cooperate should not impact it and then at trial take affirmative positions on these topics and seek to introduce evidence against Jorda. QBE impliedly recognized the inequity inherent in this type of trial scenario when it agreed that it would be bound by Mr. O'Brien's lack of knowledge. 
+",,
+"Jonathan Goodman
+",,,,,
+,"1:10-cv-21107 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-01-30 00:00:00
+",
+,,,,,"QBE INSURANCE CORPORATION, Plaintiff, v. JORDA ENTERPRISES, INC., Defendant.
+"
+,,,"Other courts have declined to require the logging of privileged, post-filing documents. See Douglas C. Rennie, Why the Beginning Should bethe End: The Argument for Exempting Postcomplaint Materials From Rule26(b)(5)(A)'s Privilege Log Requirement, 85 Tul. L. Rev. 109, 133 n.155 (2010) (collecting cases). At least two federal district courts have adopted local rules exempting post-complaint communications from the scope of discovery. S.D. Fla. Local. R. 26.1(g)(3)(C); N.D. Okla. Local Civ. R. 26.4. One judge explained that the Southern District of Florida's rule reflects ""[*17] a policy decision ... that[] despite the relevancy of a given document, in most cases, there is no good reason to require a party to go through the expense of a privilege log with respect to documents created after the commencement of a case."" Stern v. O'Quinn, 253 F.R.D. 663, 689 (S.D. Fla. 2008). 
+",,
+"Thomas B. Smith
+",,,,,
+,"6:12-cv-00854 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-10-25 00:00:00
+",
+,,,,,"TELEDYNE INSTRUMENTS, INC., Teledyne, v. JAMES L. CAIRNS, ABYSSAL SYSTEMS, INC., KATHRYN F. KRAUSE and THE STILLWATER TRUST, Defendants.
+"
+"VIRGINIA MARIA HERNANDEZ COVINGTON
+",,,,,
+,"8:12-cv-00942 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-09-19 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, for the use and benefit of RAGGHIANTI FOUNDATIONS III, LLC, Plaintiff, v. PETER R. BROWN CONSTRUCTION, ET AL., Defendants.
+"
+"Lurana S. Snow
+",,,,,
+,"0:10-cv-62411 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-03-05 00:00:00
+",
+,,,,,"QBE Insurance Corporation; Wynmoor Community Council, Inc.
+"
+"JAMES D. WHITTEMORE
+",,,,,
+,"8:08-cv-02446 (M.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2012-11-02 00:00:00
+",
+,,,,,"TAMPA BAY WATER, Plaintiff, vs. HDR ENGINEERING, Inc., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-03-18 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Gary R. Jones
+",,,,,
+,"1:11-cv-00232 (N.D. Fla.);
+",,,,
+,,"Labor Law; Damages & Remedies
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-12-24 00:00:00
+",
+,,,,,"SHELLY OLIVA individually, Plaintiff, v. INFINITE ENERGY, INC., Defendant.
+"
+,,"Civil Procedure
+",,,
+,,,,"2014-12-01 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Monte C. Richardson
+",,,,,
+,"3:11-cv-00447 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2012-01-24 00:00:00
+",
+,,,,,"INDEPENDENT MARKETING GROUP, INC., a Florida corporation, Plaintiff, vs. JERRY KEEN, an individual; BRIAN J. KEEN, an individual and WILLIAM MEGNA, an individual, Defendants.
+"
+"Thomas B. Smith
+",,,,,
+,"6:13-cv-01481 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-02-12 00:00:00
+",
+,,,,,"L-3 COMMUNICATIONS CORPORATION, Plaintiff, v. SPARTON CORPORATION and SPARTON ELECTRONICS FLORIDA, INC., Defendants.
+"
+"Anne C. Conway
+",,,,,
+,"6:11-cv-00137 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Copyright Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-02-25 00:00:00
+",
+,,,,,"INDYNE, INC., Plaintiff, v. ABACUS TECHNOLOGY CORPORATION, JERRY RENINGER and MATTHEW BOYLAN, Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Tax & Accounting
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-02-02 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-02-28 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+,,,"Generally speaking, courts do not require a forensic analysis in the absence of consent unless there has been significant non-compliance with discovery obligations. Powers v. Thomas M. Cooley Law School, No. 5:05-CV-117, 2006 U.S. Dist. LEXIS 67706 , 2006 WL 2711512 , at *5 (W.D. Mich. Sept. 21, 2006); Mirbeau of Geneva Lake LLC v. City of Lake Geneva, No. 08-CV-693, 2009 U.S. Dist. LEXIS 101104 , 2009 WL 3347101 , at *1 (E.D. Wis. Oct. 15, 2009) (forensic analysis appropriate ""[o]nly if the moving party can actually prove that the responding party has concealed information or lacks the expertise necessary to search and retrieve all relevant data""). Cf. Daimler Truck N. Am. LLC v. Younessi, No. 08-MC-5011RBL, 2008 U.S. Dist. LEXIS 86022 , 2008 WL 2519845 , at *3 (W.D. Wash. June 20, 2008) (denying forensic analysis where there was no evidence that documents were destroyed and where the court predicted the responding party would produce the discovery); U & I Corp. v. Advanced Med. Design, Inc., 251 F.R.D. 667 , 675-76 (M.D. Fla. 2008) (defendant satisfied In re Ford's non-compliance with discovery standard because plaintiff had committed several serious discovery violations).
+",,
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-12-30 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Evidence
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-04-24 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Karla R. Spaulding
+",,,,,
+,"6:11-cv-00715 (M.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-06-27 00:00:00
+",
+,,,,,"HEALTH FIRST, INC., Plaintiff, v. RICHARD HYNES, Defendant.
+"
+"John J. O’Sullivan
+",,,,,
+,"1:11-cv-23627 (S.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure; Corporate Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-07-26 00:00:00
+",
+,,,,,"ENERGY SMART INDUSTRY, LLC, Plaintiff v. BIG R OF LAMAR, INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-07-20 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Gary R. Jones
+",,,,,
+,"5:12-cv-00398 (N.D. Fla.);
+",,,,
+,,"Civil Procedure; Evidence; Banking & Finance
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-06-14 00:00:00
+",
+,,,,,"FEDERAL DEPOSIT INSURANCE CORPORATION, as Receiver for Peoples First Community Bank, Plaintiff, v. Greg M. BRUDNICKI, Joseph F. Chapman, III, Henry Clayton Futrell, Philip W. Griffitts, John Robert Middlemas, Jr., Rodney C. Morris, Raymond E. Powell, and John Stephen Wilson, II, Defendants.
+"
+"JAMES LAWRENCE KING
+",,,,,
+,"1:09-cv-21871 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-10-16 00:00:00
+",
+,,,,,"Timothy FINNERTY, Plaintiff, v. STIEFEL LABORATORIES, INC., et al., Defendants.
+"
+"Marcia Morales Howard
+",,,,,
+,"3:13-cv-00457 (M.D. Fla.);
+",,,,
+,,"Constitutional Law; Civil Procedure; Insurance Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-09-16 00:00:00
+",
+,,,,,"DIAMOND STATE INSURANCE COMPANY, Plaintiff, vs. BOYS’ HOME ASSOCIATION, INC., et al., Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Consumer Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-10-02 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:13-cv-22795 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-01-10 00:00:00
+",
+,,,,,"GAME CONTROLLER TECHNOLOGY LLC, Plaintiff, v. SONY COMPUTER ENTERTAINMENT AMERICA LLC and SONY CORPORATION OF AMERICA, Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:13-cv-22795 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-01-10 00:00:00
+",
+,,,,,"GAME CONTROLLER TECHNOLOGY LLC, Plaintiff, v. SONY COMPUTER ENTERTAINMENT AMERICA LLC and Sony Corporation of America, Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:12-cv-23568 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2013-01-29 00:00:00
+",
+,,,,,"WI-LAN USA, INC., and WI-LAN, INC., Plaintiffs, v. ALCATEL-LUCENT USA INC., Defendant.
+"
+"DONALD M. MIDDLEBROOKS
+",,,,,
+,"9:11-cv-80601 (S.D. Fla.); 9:11-cv-80638 (S.D. Fla.); 9:11-cv-80641 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-03-08 00:00:00
+",
+,,,,,"WINN-DIXIE STORES, INC,; WINN-DIXIE STORES LEASING, LLC; WINN-DIXIE RALEIGH, INC.; WINN-DIXIE RALEIGH LEASING, LLC; WINN-DIXIE MONTGOMERY, LLC; and WINN-DIXIE MONTGOMERY LEASING, LLC, Plaintiffs, v. DOLLAR TREE STORES, INC., a Virginia corporation, Defendant.; WINN-DIXIE STORES, INC.; WINN-DIXIE STORES LEASING, LLC; WINN-DIXIE RALEIGH, INC.; WINN-DIXIE RALEIGH LEASING, LLC; WINN-DIXIE MONTGOMERY, LLC; and WINN-DIXIE MONTGOMERY LEASING, LLC, Plaintiffs, v. BIG LOTS STORES, INC., an Ohio corporation, Defendant/Third-party Plaintiff,; WINN-DIXIE STORES, INC.; WINN-DIXIE STORES LEASING, LLC; WINN-DIXIE RALEIGH, INC.; WINN-DIXIE RALEIGH LEASING, LLC; WINN-DIXIE MONTGOMERY, LLC; and WINN-DIXIE MONTGOMERY LEASING, LLC, Plaintiffs, v. DOLGENCORP, LLC, f/k/a DOLGENCORP, INC., a Kentucky corporation, Defendant/Third Party Plaintiff,
+"
+"Thomas G. Wilson
+",,,,,
+,"8:06-cv-01950 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2012-09-06 00:00:00
+",
+,,,,,"WAYNE R. GRAY Plaintiff, v. NOVELL, INC., THE SCO GROUP, INC., and X/OPEN LIMITED Defendants.
+"
+"ELIZABETH ANNE KOVACHEVICH
+",,,,,
+,"8:13-cv-01209 (M.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-09-10 00:00:00
+",
+,,,,,"KENNETH DOIG, Plaintiff, v. CAROLYN W. COLVIN, Acting Commissioner of Social Security, Defendant.
+"
+,,,,,"Under the work product doctrine, documents and other ""tangible things"" are not discoverable by a party when they were ""prepared in anticipation of litigation or for trial by or for another party or its representative (including the other party's attorney, consultant, surety, indemnitor, insurer, or agent).""  Id. at 26(b)(3)(A) . These protected materials may be discovered, however, if ""they are otherwise discoverable under Rule 26(b)(1) "" and the party seeking production ""shows that it has substantial need for the materials to prepare its case and cannot, without undue hardship, obtain their substantial equivalent by other means."" Id . 
+"
+"Julie Sneed
+",,,,,
+,"8:16-cv-00088 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-07-01 00:00:00
+",
+,,,,,"CENTENNIAL BANK, Plaintiff, v. SERVISFIRST BANK INC. and GREGORY W. BRYANT, Defendants.
+"
+"Elizabeth A. Jenkins
+",,,,,
+,"8:12-cv-00557 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-06-10 00:00:00
+",
+,,,,,"BURTON W. WIAND, ESQ., as Court-Appointed Receiver for SCOOP REAL ESTATE, L.P., et al., Plaintiff, vs. WELLS FARGO BANK, N.A., et al., Defendants.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01732 (M.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-05-11 00:00:00
+",
+,,,,,"NORIS BABB, Plaintiff, v. ROBERT A. MCDONALD, SECRETARY, DEPARTMENT OF VETERANS AFFAIRS, Defendant.
+"
+,,,"Even so, courts have recognized the value and remaining viability of a claim of secondary liability: ""When a widely shared service or product is used to commit infringement, it may be impossible to enforce rights in the protected work effectively against all direct infringers, the only practical alternative being to go against the distributor of the copying device for secondary liability on a theory of contributory or vicarious infringement."" Metro-Goldwyn-Mayer Studios, Inc. v. Grokster, Ltd., 545 U.S. 913, 929-30 (2005) (citation omitted); Perfect 10, Inc. v. Amazon.com, Inc., 508 F.3d 1146, 1171 n.11 (9th Cir. 2007) (""[C]opyright holders cannot protect their rights in a meaningful way unless they can hold providers of such services or products accountable for their actions."") These theories of secondary liability - contributory infringement, inducement liability and vicarious liability - are court-created and do not rely on the Copyright Act or another statute. See Viacom Int'l Inc., 676 F.3d at 28 n.5 (citing Grokster, 545 U.S. at 930-31 ); Perfect 10, Inc. v. Visa Int'l Serv. Ass'n, 494 F.3d 788, 795 (9th Cir. 2007) (""Contributory copyright infringement is a form of secondary liability with roots in the tort-law concepts of enterprise liability and imputed intent."").
+",,
+,,,"
+",,
+"KATHLEEN MARY WILLIAMS
+",,,,,
+,"1:11-cv-20427 (S.D. Fla.);
+",,,,
+,,"Torts; Corporate Law; Copyright Law; Technology Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2013-09-20 00:00:00
+",
+,,,,,"DISNEY ENTERPRISES, INC., et al., Plaintiffs, v. HOTFILE CORP., et al., Defendants.
+"
+"KEVIN MICHAEL MOORE
+",,,,,
+,"0:11-cv-62671 (S.D. Fla.);
+",,,,
+,,"Bankruptcy Law; International Trade Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2012-04-18 00:00:00
+",
+,,,,,"SNP BOAT SERVICE S.A., Appellant, v. HOTEL LE ST. JAMES, Appellee.
+"
+"Thomas G. Wilson
+",,,,,
+,"8:15-cv-02632 (M.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-05-11 00:00:00
+",
+,,,,,"HAIDER ALI KHAN, M.D., et al. v. BANKUNITED, INC., et al.
+"
+"Thomas E. Morris
+",,,,,
+,"3:11-cv-00719 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-07-17 00:00:00
+",
+,,,,,"PARKERVISION, INC., Plaintiff, vs. QUALCOMM INCORPORATED, Qualcomm. QUALCOMM INCORPORATED, Counterclaim Plaintiff, vs. PARKERVISION, INC. and STERNE, KESSLER, GOLDSTEIN & FOX, PLLC, Counterclaim Defendants.
+"
+"SUSAN C. BUCKLEW
+",,,,,
+,"8:11-cv-01638 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Tax & Accounting
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2013-11-27 00:00:00
+",
+,,,,,"ABRAHAM I. AWWAD, Plaintiff, v. LARGO MEDICAL CENTER, INC., Defendant.
+"
+,,,"While the Court concludes there may be circumstances justifying delay in disclosure of a surveillance tape, the Court finds that Defendant here has not pointed to any justification for delaying disclosure of the tape other than unsupported speculation that the Plaintiff's testimony may be altered in some way to reflect the events on the surveillance tape. The surveillance tape in this case — which the Defendant has submitted and the Court has reviewed — depicts what appears to be a typical slip and fall accident. The tape was not produced by an investigator depicting Plaintiff engaging in activities inconsistent with her claimed injuries. If that was the case there would be a compelling reason to delay disclosure of the tape. Because the tape here depicts the incident giving rise to Plaintiff's claim its primary evidentiary value is proof of the underlying facts surrounding the incident and not primarily for impeachment purposes. 
+",,
+"Gary R. Jones
+",,,,,
+,"5:14-cv-00093 (N.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2014-05-28 00:00:00
+",
+,,,,,"MARY SOWELL et al., Plaintiffs, v. TARGET CORPORATION, Defendant.
+"
+"ELIZABETH M TIMOTHY
+",,,,,
+,"5:12-cv-00307 (N.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2014-01-15 00:00:00
+",
+,,,,,"PATRICIA McADAMS, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of Social Security, Defendant.
+"
+"Carlos Eduardo Mendoza
+",,,,,
+,"6:11-cv-00715 (M.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-09-01 00:00:00
+",
+,,,,,"HEALTH FIRST, INC., Plaintiff, v. RICHARD HYNES, Defendant.
+"
+"Thomas B. Smith
+",,,,,
+,"6:13-cv-01708 (M.D. Fla.);
+",,,,
+,,"Employment Law; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-03-12 00:00:00
+",
+,,,,,"SELECTICA, INC., Plaintiff, v. NOVATUS, INC., Defendant.
+"
+"John Richard Smoak Jr
+",,,,,
+,"4:11-cv-00614 (N.D. Fla.); 4:12-cv-00170 (N.D. Fla.);
+",,,,
+,,"Civil Procedure; Patent Law
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2012-04-13 00:00:00
+",
+,,,,,"In Re WORLD WIDE MEDICAL TECH. LLC., et al., patent litigation consolidated cases, WORLD WIDE MEDICAL TECH. LLC., et al., Plaintiffs, vs. ONCURA INC., Defendants.
+"
+"David A. Baker
+",,,,,
+,,,,"2012-11-30 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"PACIFIC COAST MARINE WINDSHIELDS LIMITED, a foreign corporation, Plaintiff, -vs- MALIBU BOATS, LLC, a California limited liability company, MARINE HARDWARE, INC., TRESSMARK, INC., MH WINDOWS, LLC, JOHN F. PUGH, OWNER, PRESIDENT & CEO DARREN BACH, Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-22539 (S.D. Fla.);
+",,,,
+,,"Criminal Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-11-03 00:00:00
+",
+,,,,,"LATELE TELEVISION, C.A., Plaintiff, v. TELEMUNDO COMMUNICATIONS GROUP, LLC, et al., Defendants.
+"
+"David A. Baker
+",,,,,
+,,,,"2013-12-06 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"INDYNE, INC., Plaintiff, -vs- ABACUS TECHNOLOGY CORPORATION, JERRY RENINGER and MATTHEW BOYLAN, Defendants.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:12-cv-00942 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-05-19 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, for the use and benefit of RAGGHIANTI FOUNDATIONS III, LLC, Plaintiff, v. PETER R. BROWN CONSTRUCTION, INC., ET AL., Defendants.
+"
+,,,"""The parties are bound by the language of [the] contract . . . no matter how disadvantageous that language later proves to be for one party or the other."" In re Taylor, Bean & Whitaker Mortg. Corp., No. 3:09-bk-7047-JAF, [2015 BL 50260], 2015 Bankr. LEXIS 624 , 2015 WL 728493 , at *2 (M.D. Fla. Feb. 19, 2015) (noting that every provision in a contract should be given meaning and effect); eComSystems, Inc. v. Shared Mktg. Servs., Inc., No. 8:10-cv-1531-T-33MAP, [2012 BL 17808], 2012 U.S. Dist. LEXIS 6478 , 2012 WL 171083 , at *4 (M.D. Fla. Jan. 20, 2012) (noting that no contract provisions should be rendered superfluous and contracts should be construed to give effect to the intent of the parties).
+",,
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Contracts
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-03-10 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., an Indiana Limited Partnership, Plaintiff, v. EXPRESS SCRIPTS, INC., f/k/a Medco Health Solutions, Inc., f/k/a Merck-Medco Managed Care, LLC, Defendant.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure; Landlord & Tenant
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-07-27 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., Plaintiff, v. EXPRESS SCRIPTS, INC., Defendant.
+"
+"Mark A. Pizzo
+",,,,,
+,,,,"2013-07-02 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"UNITED STATES OF AMERICA, for the Use and Benefit of: RAGGHIANTI FOUNDATIONS III, LLC, Plaintiff, v. PETER R. BROWN CONSTRUCTION, INC., LIBERTY MUTUAL INSURANCE COMPANY, and SAFECO INSURANCE COMPANY OF AMERICA, Defendants.
+"
+"Ursula Ungaro
+",,,,,
+,"1:14-cv-23284 (S.D. Fla.);
+",,,,
+,,"Contracts; Civil Procedure; Conflict of Laws
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-06-03 00:00:00
+",
+,,,,,"ENERGY SMART INDUSTRY, LLC, Plaintiff, v. MORNING VIEW HOTELS-BEVERLY HILLS, LLC, Defendant.
+"
+"Gary R. Jones
+",,,,,
+,"1:11-cv-00196 (N.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2012-04-12 00:00:00
+",
+,,,,,"KIRK CIANCIOLO, D.O., Plaintiff, v. AVMED, INC., d/b/a AVMED HEALTH PLANS, Defendant.
+"
+"Virginia Maria Hernandez Covington
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Appellate Procedure; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-09-08 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., Plaintiff, v. EXPRESS SCRIPTS, INC., Defendant.
+"
+"VIRGINIA MARIA HERNANDEZ COVINGTON
+",,,,,
+,"8:14-cv-01527 (M.D. Fla.);
+",,,,
+,,"Evidence
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-06-15 00:00:00
+",
+,,,,,"APPLE GLEN INVESTORS, L.P., Plaintiff, v. EXPRESS SCRIPTS, INC., Defendant.
+"
+"William Matthewman
+",,,,,
+,"0:14-cv-62216 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-03-22 00:00:00
+",
+,,,,,"LIVING COLOR ENTERPRISES, INC., a Florida corporation, Plaintiff, vs. NEW ERA AQUACULTURE, LTD., a United Kingdom Private limited company; AQUA-TECH CO., an Illinois corporation; JOHN T. O’ROURKE, an individual; DANIEL LEYDEN, an individual; and WORLD FEEDS, LTD., a United Kingdom Private limited company, Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,,,"2014-03-26 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+,,,"Having found no grounds to award Eisai attorney's fees under the FCA or § 1927 , the undersigned finds that there is no basis to entertain a fee award under the Court's inherent power.
+",,
+"William C. Turnoff
+",,,,,
+,"1:09-cv-22302 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Banking & Finance
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-03-30 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, et al., ex rel. KEELER, Plaintiffs, v. EISAI, INC., Defendant.
+"
+"William Matthewman
+",,,,,
+,"9:12-cv-81223 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-04-07 00:00:00
+",
+,,,,,"FRED DEVRIES, etc. et al., individually and on behalf of others sim ilarly situated, Plaintiffs, VS. MORGAN STANLEY & CO. LLC, f/k/a Morgan Stanley & Co. Inc., etc. et al., Defendants.
+"
+"Andrea M. Simonton
+",,,,,
+,"0:11-cv-62484 (S.D. Fla.);
+",,,,
+,,,,"2012-07-18 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PRAGMATUS AV, LLC, Plaintiff, v. CITRIX SYSTEMS, INC., Defendant.
+"
+"Andrea M. Simonton
+",,,,,
+,"0:11-cv-62484 (S.D. Fla.);
+",,,,
+,,,,"2012-07-18 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PRAGMATUS AV, LLC, Plaintiff, vs. CITRIX SYSTEMS, INC., Defendant.
+"
+"Douglas N. Frazier
+",,,,,
+,"2:10-cv-00341 (M.D. Fla.);
+",,,,
+,,"Patent Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-10-22 00:00:00
+",
+,,,,,"TECHNOLOGY INNOVATIONS, LLC, Plaintiff, v. NSTEIN TECHNOLOGIES, INC. and OPEN TEXT CORPORATION, Defendants.
+"
+,,,"Given that courts evaluate requests for additional depositions on a case-by-case basis, it is hardly surprising to find cases going both ways. See Andrews v. Fowler, 98 F.3d 1069 , 1080 (8th Cir. 1996) (civil rights claimant not entitled to take additional depositions of city council members and other witnesses when she was already permitted to take twelve depositions, two more than permitted without leave of court); Alexander v. Federal [*5] Bureau of Investigation, 192 F.R.D. 20 (D.D.C. 2000) (allowing plaintiffs to take the deposition of a new nonparty witness even though they had exhausted the limit for the number of depositions because the witness' knowledge had only recently come to plaintiffs' attention).
+",,
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-05-05 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"Lurana S. Snow
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-12-12 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, and THE STATE OF FLORIDA, ex rel. MANUEL CHRISTIANSEN and BRIAN ASHTON, Relators, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY, Defendant.
+"
+"Alicia O. Valle
+",,,,,
+,"0:13-cv-62321 (S.D. Fla.);
+",,,,
+,,,,"2014-05-16 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"PATRICIA GUNSON, On Behalf of Herself and All Others Similarly Situated, Plaintiff, v. BMO HARRIS BANK, N.A., FIRST PREMIER BANK, a South Dakota State-Chartered Ban, MISSOURI BANK AND TRUST, a Missouri State-Chartered Bank, FOUR OAKS BANK & TRUST, a North Carolina-Chartered Bank, and MUTUAL OF OMAHA BANK, Defendants.
+"
+"Barry S. Seltzer
+",,,,,
+,,,,"2014-07-03 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"CARLOS CABRERA, Plaintiff, vs. GOVERNMENT EMPLOYEES INSURANCE COMPANY, a Maryland corporation, and BELL, LLC, a Florida limited liability company, Defendants.
+"
+"Monte C. Richardson
+",,,,,
+,"3:15-cv-00934 (M.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-09-16 00:00:00
+",
+,,,,,"CATHERINE M. DICKS, Plaintiff, v. CAROLYN W. COLVIN, Commissioner of the Social Security Administration, Defendant.
+"
+"Anthony E. Porcelli
+",,,,,
+,,,,"2013-02-21 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"GARDITH S. LEMY, et al., Plaintiffs, v. DIRECT GENERAL FINANCE COMPANY, et al., Defendants.
+"
+"SUSAN C. BUCKLEW
+",,,,,
+,"8:11-cv-00775 (M.D. Fla.);
+",,,,
+,,,,"2015-03-13 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"AMERITOX, LTD., Plaintiff, v. MILLENNIUM LABORATORIES, INC., Defendant.
+"
+,"6:15-cv-01657 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Class Actions
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-06-09 00:00:00
+",
+,,,,,"SHANA FREEDMAN, Plaintiff, v. SUNTRUST BANKS, INC. and SUNTRUST MORTGAGE, INC., Defendants.
+"
+,,,"The undersigned agrees with the Defendant that neither the $35.00 costs of CD depo litigation packages for eight witnesses (ECF No. 326-4 at 3, 6, 8, 10, 12, 14, 16, 18), the $25.00 charge for electronic delivery (ECF No. 326-4 at 6), nor the $1,625.00 for video synchronization (ECF No. 326-4 at 4, 9, 11, 13, 15, 17, 19) are taxable, resulting in a reduction in taxable transcript costs of $1,930.00. Regarding the expedited production costs, identified by the Relators as [*4] totaling $3,257.62 (ECF No. 326 at 7)2, the Relators contend that these costs were reasonably incurred because of the need to refer to these depositions in their motion for summary judgment. The Defendant points out that the deadline for filing motions for summary judgment had been set for more than a year, and two of the expedited depositions were taken after that deadline. The undersigned finds that the need for expedited depositions was created by the Relators themselves, who could have scheduled the depositions in time for ordinary production and delivery. Accordingly, the costs for expediting the depositions is not taxable, resulting in a total award for transcripts of $21,678.43 ($26,866.05 - $1,930.00 - $3,257.62).
+",,
+"Lurana S. Snow
+",,,,,
+,"0:12-cv-60185 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-11-13 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, and THE STATE OF FLORIDA, ex rel. MANUEL CHRISTIANSEN and BRIAN ASHTON, Relators, vs. EVERGLADES COLLEGE, INC. d/b/a KEISER UNIVERSITY, Defendant.
+"
+"Harvey Edwin Schlesinger
+",,,,,
+,"3:12-cv-01366 (M.D. Fla.);
+",,,,
+,,"Evidence; Class Actions
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-05-11 00:00:00
+",
+,,,,,"PB PROPERTY MANAGEMENT, INC., JANET HELM, JIMMY JEWELL, DEBORAH L. WAGNER, and STANLEY H. WAGNER, individually and on behalf of all others similarly situated, Plaintiffs, vs. GOODMAN MANUFACTURING COMPANY, L.P. GOODMAN GLOBAL, INC., and GOODMAN COMPANY, L.P., Defendants.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-22539 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Damages & Remedies; Copyright Law; Trademark Law; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-11-10 00:00:00
+",
+,,,,,"LATELE TELEVISION, C.A., Plaintiff, v. TELEMUNDO COMMUNICATIONS GROUP, LLC, et al., Defendants.
+"
+"Robin S. Rosenbaum
+",,,,,
+,"0:12-cv-61742 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2013-04-10 00:00:00
+",
+,,,,,"AMANDA MATHIS, et al., Plaintiffs, vs. DARDEN RESTAURANTS, INC., et al., Defendants.
+"
+"JAMES D. WHITTEMORE
+",,,,,
+,"8:14-cv-00396 (M.D. Fla.);
+",,,,
+,,"Employment Law; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-04-16 00:00:00
+",
+,,,,,"CAROL ROBLING, Plaintiff, v. ITT EDUCATIONAL SERVICES, INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-22539 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-12-16 00:00:00
+",
+,,,,,"LATELE TELEVISION, C.A., Plaintiff, v. TELEMUNDO COMMUNICATIONS GROUP, LLC, et al., Defendants.
+"
+,"9:14-cv-81397 (S.D. Fla.);
+",,,,
+,,"Antitrust & Trade; Privacy & Information Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-06-17 00:00:00
+",
+,,,,,"Boost Software, Inc.; Federal Trade Commission; State of Florida
+"
+"Barry S. Seltzer
+",,,,,
+,"9:15-cv-81139 (S.D. Fla.);
+",,,,
+,,"Civil Procedure; Consumer Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-03-28 00:00:00
+",
+,,,,,"BENJAMIN HANKINSON, JAMES GUERRA, JEANETTE GANDOLFO, individually and on behalf of others similarly situated, Plaintiffs, vs. R.T.G. FURNITURE CORP., d/b/a ROOMS TO GO, Defendant.
+"
+"ELIZABETH M TIMOTHY
+",,,,,
+,"5:12-cv-00352 (N.D. Fla.);
+",,,,
+,,"Administrative Law; Evidence; Social Security
+",,,
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,"2013-11-05 00:00:00
+",
+,,,,,"ZINA M. ROBINSON, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of Social Security, Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-10-20 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+"ELIZABETH M TIMOTHY
+",,,,,
+,,,,"2013-02-11 00:00:00
+",
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,,"BRENDA CALVERT, Plaintiff, vs. MICHAEL J. ASTRUE, Commissioner of the Social Security Administration, Defendant.
+"
+,,,,,"Rule 37 of the Federal Rules of Civil Procedure authorizes a motion to compel discovery when a party fails to provide proper response to requests for production of documents under Rule 34. Fed. R. Civ. P. 37(a)(3)(B) . ""The proponent of a motion to compel discovery ... bears the initial burden of proving that the information sought is relevant."" Moore v. Lender Processing Servs. Inc., No. 3:12-CV-205-J, 2013 U.S. Dist. LEXIS 78971 , [2013 BL 147400], 2013 WL 2447948 , at *2 (M.D. Fla. June 5, 2013) (internal quotations omitted) (quoting Diamond State Ins. Co. v. His House, Inc., No. 10-20039-CIV, 2011 U.S. Dist. LEXIS 5808 , [2011 BL 420554], 2011 WL 146837 , at *5 (S.D. Fla. Jan. 18, 2011)). The party moving to compel discovery must certify that it ""has in good faith conferred or attempted to confer with the person or party failing to make disclosure or discovery in an effort to obtain it without court action."" Fed. R. Civ. P. 37(a)(1) . See also M.D. Fla. R. 3.01(g) .
+"
+"Thomas B. Smith
+",,,,,
+,"6:14-cv-00399 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-09-25 00:00:00
+",
+,,,,,"LOCAL ACCESS, LLC, et al., Plaintiffs, v. PEERLESS NETWORK, INC., Defendant.
+"
+"Jonathan Goodman
+",,,,,
+,"1:12-cv-24356 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2014-10-20 00:00:00
+",
+,,,,,"PROCAPS S.A., Plaintiff, v. PATHEON INC., Defendant.
+"
+,"1:15-md-02599 (S.D. Fla.);
+",,,,
+,,"Family Law
+",,,
+,,,,"2015-12-08 00:00:00
+",
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,,"IN RE: TAKATA AIRBAG PRODUCTS LIABILITY LITIGATION. THIS DOCUMENT RELATES TO ALL ACTIONS
+"
+"Joel B. Toomey
+",,,,,
+,"3:09-cv-00446 (M.D. Fla.);
+",,,,
+,,,,"2013-01-09 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"GORDON LAWRIE, et al., individually and on behalf of all others similarly situated, Plaintiffs, v. GINN DEVELOPMENT COMPANY, LLC, et al., Defendants.
+"
+"KEVIN MICHAEL MOORE
+",,,,,
+,"1:15-cv-21826 (S.D. Fla.);
+",,,,
+,,"Torts; Products Liability; Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-02-01 00:00:00
+",
+,,,,,"MAGGIE TSAVARIS, Plaintiff, v. PFIZER, INC.; WYETH, INC. and its divisions WYETH PHARMACEUTICALS, INC., ESI LEDERLE, and WYETH LLC.; NOVO NORDISK A/S, a Denmark corporation; NOVO NORDISK INC, a Delaware corporation; and BRECKENRIDGE PHARMACEUTICAL, INC., a Delaware corporation, Defendants.
+"
+"ELIZABETH M TIMOTHY
+",,,,,
+,"5:12-cv-00383 (N.D. Fla.);
+",,,,
+,,,,"2014-01-03 00:00:00
+",
+,,,"United States District Court for the Northern District of Florida
+",,
+,,,,,"PATRICIA A. FIELDER, Plaintiff, vs. CAROLYN W. COLVIN, Acting Commissioner of Social Security,1 Defendant.
+"
+,,,"Other courts, however, have held that the heightened pleading standard of Twombly [*681] and Iqbal does not apply to affirmative defenses. See, e.g., Tarasewicz v. Royal Caribbean Cruises Ltd., No. 14-CIV-60885, 2015 U.S. Dist. LEXIS 45923 , [2015 BL 100090], 2015 WL 1566398 , at *2 (S.D. Fla. Apr. 8, 2015); Sparta Ins. Co. v. Colareta, No. 13-60579-CIV, 2013 U.S. Dist. LEXIS 146700 , [2013 BL 398794], 2013 WL 5588140 , at *1 (S.D. Fla. Oct. 10, 2013); Gonzalez v. Midland Credit Mgmt., Inc., No. 6:13-CV-1576-ORL-37, 2013 U.S. Dist. LEXIS 160093 , [2013 BL 311555], 2013 WL 5970721 , at *3 (M.D. Fla. Nov. 8, 2013); Ramnarine v. CP RE Holdco 2009-1, LLC, No. 12-61716-CIV, 2013 U.S. Dist. LEXIS 60009 , [2013 BL 112258], 2013 WL 1788503 , at *1 (S.D. Fla. Apr. 26, 2013); Adams v. JP Morgan Chase Bank, N.A., No. 3:11-cv-337-J-37MCR, 2011 U.S. Dist. LEXIS 79366 , [2011 BL 190520], 2011 WL 2938467 , at *2-3 (M.D. Fla. July 21, 2011); Floyd v. SunTrust Banks, Inc., No. 1:10-CV-2620-RWS, 2011 U.S. Dist. LEXIS 65190 , [2011 BL 422441], 2011 WL 2441744 (N.D. Ga. June 13, 2011); Jackson v. City of Centreville, 269 F.R.D. 661 (N.D. Ala. 2010); Blanc v. Safetouch, Inc., No. 3:07-cv-1200-J-25TEM, 2008 U.S. Dist. LEXIS 68158 , [2008 BL 193592], 2008 WL 4059786 , at *1 (M.D. Fla. Aug. 27, 2008). In support, these courts point to the differences between Rule 8(a), which governs the pleading of claims, and Rules 8(b) and (c), which apply to affirmative defenses. Sparta, 2013 U.S. Dist. LEXIS 146700 , [2013 BL 398794], 2013 WL 5588140 , at *2. Rule 8(a)(2) requires that a claim for relief contain ""a short and plain statement of the claim showing that the pleader is entitled to relief,"" while Rule 8(b)(1)(A) provides only that, when responding to a pleading, a party must ""state in short and plain terms its defenses to each claim asserted against it."" Id .; see also Fed. R. Civ. P. 8(a)(2) , (b)(1)(A). Similarly, Rule 8(c) requires a party to ""affirmatively state any avoidance or affirmative defense."" Sparta, 2013 U.S. Dist. LEXIS 146700 , [2013 BL 398794], 2013 WL 5588140 , at *2; see also Fed. R. Civ. P. 8(c) .
+",,
+,,,"""To state"" means ""[t]o set forth in words; declare,"" while ""to show"" refers to the practice of ""demonstrat[ing] by reasoning or procedure"" or ""demonstrat[ing] to by reasoning or procedure; inform[ing] or prov[ing] to: showed him how to fix the camera; showed her that it could really happen."" Thus, showing requires significantly more than stating alone.
+",,
+"KEVIN MICHAEL MOORE
+",,,,,
+,"1:15-cv-21826 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-09-25 00:00:00
+",
+,,,,,"MAGGIE TSAVARIS, Plaintiff, v. PFIZER, INC.; WYETH, Inc. and its divisions WYETH PHARMACEUTICALS, INC. and ESI LEDERLE, and WYETH LLC.; NOVO NORDISK A/S, a Denmark corporation; NOVO NORDISK INC, a Delaware corporation; and BRECKENRIDGE PHARMACEUTICAL, INC., a Delaware corporation, Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:15-cv-24067 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-04-15 00:00:00
+",
+,,,,,"ROTHSCHILD CONNECTED DEVICES INNOVATIONS, LLC, Plaintiff, v. THE COCA-COLA COMPANY, Defendant.
+"
+"David A. Baker
+",,,,,
+,"6:14-cv-00533 (M.D. Fla.);
+",,,,
+,,"Torts; Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-01-28 00:00:00
+",
+,,,,,"ADVANTOR SYSTEMS CORPORATION, Plaintiff, v. DRS TECHNICAL SERVICES, INC., Defendant.
+"
+"John J. O’Sullivan
+",,,,,
+,"1:14-cv-23130 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-10-16 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, Plaintiff, v. LUCVENS FRANCOIS, individually and d/b/a TAX RESOURCE CENTER, URBAN SIRE, LLC, and THE CITEDALE GROUP, INC., Defendant.
+"
+"William Matthewman
+",,,,,
+,"9:12-cv-81223 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-10-30 00:00:00
+",
+,,,,,"FRED DEVRIES, et al., individually and on behalf of others similarly situated, Plaintiffs, v. MORGAN STANLEY & CO. LLC, f/k/a Morgan Stanley & Co. Inc., etc. et al., Defendants.
+"
+"CECILIA MARIA ALTONAGA
+",,,,,
+,"1:14-cv-23130 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-11-05 00:00:00
+",
+,,,,,"UNITED STATES OF AMERICA, Plaintiff, v. LUCVENS FRANCOIS, Defendant.
+"
+,,,"Thus, the question before the Court is whether this case is ""exceptional,"" such that Defendants, as the prevailing party in this suit, are entitled to an award of attorney's fees pursuant to § 285 .
+",,
+"William C. Turnoff
+",,,,,
+,"9:12-cv-81022 (S.D. Fla.);
+",,,,
+,,"Damages & Remedies; Patent Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2015-11-20 00:00:00
+",
+,,,,,"NET TALK.COM, INC., Plaintiff, vs. MAGICJACK VOCALTEC LTD., MAGICJACK LP, MAGICJACK HOLDINGS CORPORATION, and MICHELE BORISLOW, personal representative of the Estate of Daniel Borislow, Defendants.
+"
+"Thomas B. Smith
+",,,,,
+,"6:14-cv-00399 (M.D. Fla.);
+",,,,
+,,"Civil Procedure; Privacy & Information Law
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-09-24 00:00:00
+",
+,,,,,"LOCAL ACCESS, LLC, et al., Plaintiffs, v. PEERLESS NETWORK, INC., Defendant.
+"
+"Karla R. Spaulding
+",,,,,
+,,,,"2013-11-27 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"UNITED STATES OF AMERICA -vs- HUSEIN KERMALI
+"
+"Thomas B. McCoun III
+",,,,,
+,"8:11-cv-01303 (M.D. Fla.);
+",,,,
+,,"Other
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2014-11-14 00:00:00
+",
+,,,,,"THE UNITED STATES OF AMERICA and THE STATE OF FLORIDA ex rel. ANGELA RUCKH, Plaintiff, v. GENOA HEALTHCARE CONSULTING, LLC, d/b/a LAVIE CARE CENTERS, and SALUS REHABILITATION, LLC, d/b/a LAVIE REHAB, Defendants.
+"
+"Barry S. Seltzer
+",,,,,
+,"0:15-cv-62488 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-09-15 00:00:00
+",
+,,,,,"ROCKET REAL ESTATE, LLC, and ERIC ROMANOW, Plaintiff, vs. LOURDES E. MAESTRES, Defendants.
+"
+"Alicia M. Otazo-Reyes
+",,,,,
+,"1:14-cv-23193 (S.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-03-21 00:00:00
+",
+,,,,,"QUANTUM CAPITAL, LLC, a Florida Limited Liability Company, Plaintiff, v. BANCO DE LOS TRABAJADORES, a Guatemalan entity, SERGIO HERNANDEZ, EDUARDO LIU, and RONALD GARCIA, Defendants.
+"
+"Thomas B. McCoun III
+",,,,,
+,,,,"2014-07-02 00:00:00
+",
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,,"DANIEL HITCHCOCK and CONSUMER ENERGY PARTNERS, INC., Plaintiffs, v. ALBERT J. SCIPIONE, Defendant.
+"
+"JAMES D. WHITTEMORE
+",,,,,
+,"8:12-cv-01479 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2015-08-21 00:00:00
+",
+,,,,,"PODS ENTERPRISES, LLC, Plaintiff, vs. U-HAUL INTERNATIONAL, INC., Defendant.
+"
+"Thomas B. Smith
+",,,,,
+,"6:15-cv-00999 (M.D. Fla.);
+",,,,
+,,"Civil Procedure
+",,,
+,,,"United States District Court for the Middle District of Florida
+",,
+,,,,"2016-08-08 00:00:00
+",
+,,,,,"JASON DARNELL, Plaintiff, v. ALEJANDRO RIVERA, ALPHONSO WILLIAMS and JOHN DOES 1-5, Defendants.
+"
+"John J. O’Sullivan
+",,,,,
+,"1:15-cv-24565 (S.D. Fla.);
+",,,,
+,,"Evidence; Privacy & Information Law
+",,,
+,,,"United States District Court for the Southern District of Florida
+",,
+,,,,"2016-08-16 00:00:00
+",
+,,,,,"TRACFONE WIRELESS, INC., Plaintiff v. SIMPLY WIRELESS, INC., et al, Defendants.
+"
