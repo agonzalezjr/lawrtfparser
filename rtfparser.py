@@ -18,8 +18,6 @@ dataFields = ['Judge', 'Docket', 'Topic', 'Court',  'Date', 'Parties'];
 # an array of dicts with the result of the run
 data = [];
 lines = [];
-dataRow = [];
-
 
 def dumpData(fileName, data, dataFields):
     print('Generating ' + fileName + ' ...')
@@ -32,49 +30,47 @@ def dumpData(fileName, data, dataFields):
 
 def processFile(root, file):
     print('Processing file: ' + os.path.join(root, file))
-    
+
     f = open(root+'/'+file,'r')
     for line in f:
         lines.append(line)
     f.close()
-   
-    for i in range(0,len(lines)):      
-		dataRow = {}
-		if lines[i].find("Judge(s)") == 0:	
-			 
-			dataRow['Judge'] = lines[i+1]
-			data.append(dataRow)
-			
 
-		elif lines[i].find("Related Docket(s)") == 0:	
+    dataRow = {}
 
-			dataRow['Docket'] = lines[i+1]
-			data.append(dataRow)
+    for i in range(0,len(lines)):
 
-		elif lines[i].find("Topic(s)") == 0:	
+        if lines[i].find("Judge(s)") == 0:
 
-			dataRow['Topic'] = lines[i+1]
- 			data.append(dataRow)
+            # whenever we find a new Judge(s), save what we have collected so far
+            # if we have collected anything at all and start a new row
+            if dataRow:
+                data.append(dataRow)
+                dataRow = {}
 
-		elif lines[i].find("Court") == 0:	  
+            dataRow['Judge'] = lines[i+1]
 
-			dataRow['Court'] = lines[i+1]
-			data.append(dataRow)
+        elif lines[i].find("Related Docket(s)") == 0:
 
-		elif lines[i].find("Date Filed") == 0:	
+            dataRow['Docket'] = lines[i+1]
 
-			dataRow['Date'] = lines[i+1]
-			data.append(dataRow)
+        elif lines[i].find("Topic(s)") == 0:
 
-		elif lines[i].find("Parties") == 0:	
+            dataRow['Topic'] = lines[i+1]
 
-			dataRow['Parties'] = lines[i+1]
-			data.append(dataRow)
+        elif lines[i].find("Court") == 0:
 
-    # TODO: The actual parsing ...
+            dataRow['Court'] = lines[i+1]
 
-    # For now, assume this is the output for each file
+        elif lines[i].find("Date Filed") == 0:
 
+            dataRow['Date'] = lines[i+1]
+
+        elif lines[i].find("Parties") == 0:
+
+            dataRow['Parties'] = lines[i+1]
+
+# Script execution starts here
 if not os.path.isdir(args.directory):
     sys.exit('ERROR: passed argument is not a directory (' + args.directory + ')')
 
